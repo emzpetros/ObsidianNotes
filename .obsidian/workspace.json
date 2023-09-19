@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "07c4486154550930",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Experiments/Dual Task/Dual Task.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2f29e904fabea574",
             "type": "leaf",
             "state": {
@@ -61,15 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Chicago Stuffs.md",
+                "file": "Research/MSL Meetings.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ce3ade9153ee2e84",
@@ -135,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Chicago Stuffs.md",
+                "file": "Research/MSL Meetings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Chicago Stuffs.md",
+                "file": "Research/MSL Meetings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,11 +163,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Chicago Stuffs.md"
+                "file": "Research/MSL Meetings.md"
               }
             }
+          },
+          {
+            "id": "cf5493f94cd2a33c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -199,6 +196,13 @@
   },
   "active": "426fb2af7464d98e",
   "lastOpenFiles": [
+    "Pasted image 20230919095558.png",
+    "Research/Webinairs  Seminars.md",
+    "Personal/Phone Holder Car.md",
+    "NotionImport/Alan Watts.md",
+    "NotionImport/Alan Watts 2.md",
+    "Research/Resources/D-Flow.md",
+    "Personal/Chicago Stuffs.md",
     "Personal/Random.md",
     "Personal/Chores.md",
     "Personal/Piano Pot.md",
@@ -209,7 +213,6 @@
     "Personal/Movie  TV List.md",
     "NotionImport/Undergrad Stuff.md",
     "NotionImport/Scripts.md",
-    "Personal/Phone Holder Car.md",
     "NotionImport/Presentation.md",
     "NotionImport/Page title.md",
     "NotionImport/Look at sensors.md",
@@ -219,12 +222,6 @@
     "NotionImport/Development of a body joint angle measurement system using IMU sensors 2.md",
     "Personal/Chess Set.md",
     "Personal/Car.md",
-    "Personal/Box Project.md",
-    "Research/Experiments/Dual Task/Dual Task.md",
-    "Research/Resources/Data Processing.md",
-    "Research/Experiments/Dual Task/Dual Task Treadmill Protocol.md",
-    "Research/Experiments/ColorWordMatch/ColorWordMatch.md",
-    "Research/Experiments/ColorWordMatch/Data Processing.md",
     "Personal",
     "NotionImport/Attachements/10_CustomSensors_JumpingJacks.mp4",
     "NotionImport/Attachements",

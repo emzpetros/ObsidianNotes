@@ -1,5 +1,11 @@
   
 
+
+# BME Seminar - David Cunningham
+
+Transcranial Mag Stim
+- Reduced motor evoked pot in stroke
+- 
 # 8/10/23
 
 Emily Oby: Structure + Flexibility in motor cortex activity

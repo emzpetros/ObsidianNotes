@@ -1,6 +1,37 @@
-  
 
-  
+
+
+
+
+# 9/19/23
+Gait Phase Detection during Post-Stroke Ambulation - Hailey
+
+Stroke
+- Ischemic or hemorrhagic 
+- Also show downstream effect of stroke
+- Walking impairments: fall risk, slower, less efficient
+	- Lower toe clearance
+- QoL: independence, community engagement, physical/mental health
+
+Stroke Hybrid Exo
+- Motor assistance + stimulation 
+- Stim itself may not get strong enough contraction 
+- Assistance throughout gait, have to detect gait phases
+
+Control Schemes
+- Threshold based: foot-floor contact, joint angle
+- IMU based finite state machine even for foot contact
+- Looking to transition between walking states i.e. standing, overground walking, stairs
+
+Limitations: generalization + adaptability 
+- step to step issues
+- Apply ML to improve upon state machine control, work with varied speeds + steps
+- Predicting future trajectories of system
+	- Delay from stim onset to muscle contraction
+![[Pasted image 20230919095558.png]]
+
+
+
 
 # 8/22/23 summer students pt 2
 
