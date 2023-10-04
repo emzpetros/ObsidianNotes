@@ -16,7 +16,19 @@ Controls like paint
 - [ ] Rotate model of foot in front of user with UI sliders
 - [ ] Alter depth with +/- buttons
 
-  
+# 9/20
+Blender to Unity UV mapped model https://blender.stackexchange.com/questions/70525/export-3d-model-along-with-uv-map-how-to-convert-uv-image-into-a-material-befor
+Vertex Shading: https://www.simplygon.com/posts/33fee1ea-8346-4077-bc05-abead3c1c97d
+Mutliple UV Maps: https://forum.unity.com/threads/multiple-uv-channels.1048022/
+Baking textures : https://stackoverflow.com/questions/48312958/showing-a-model-with-vertex-painted-colours-in-unity 
+https://blender.stackexchange.com/questions/271985/how-to-bake-texture-to-vertex-colors 
+
+Exportgin to CSV https://stackoverflow.com/questions/62598952/exporting-in-game-data-to-csv-in-unity
+
+## Point Clouds
+https://www.mathworks.com/help/vision/ref/pointcloud.findpointsinroi.html
+https://www.geo.tuwien.ac.at/pg/pctools/pctools.html
+# old
 
 [https://assetstore.unity.com/packages/vfx/shaders/volume-rendering-157811](https://assetstore.unity.com/packages/vfx/shaders/volume-rendering-157811)
 

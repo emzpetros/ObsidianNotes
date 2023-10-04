@@ -48,3 +48,13 @@ Dr Triolo Feedback:
 - [ ] Suzhou Evan Hamid and Eileen : feeding emg into
 - [ ] Binary up and down movement
 - [ ] After the 20th and after Thanksgiving sit together
+
+
+# VR 
+
+James Finely 
+
+Locomotor skill transfer VR -> Real Life 
+- Refs on different VR tasks including obstacle avoidance 
+- Task: minimize foot clearance crossing an obstacle 
+- Oculus Rift 2

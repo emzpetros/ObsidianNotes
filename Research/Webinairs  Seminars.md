@@ -1,4 +1,33 @@
-  
+
+
+# NP Dr. Jay Alberts
+Benefits of AR vs VR for gait and cogntitive tasks
+Implementation ?  Working with infinadeck, different headsets
+
+Audiory: real life stores
+
+
+Talk
+- PD slowdown in gait speed across  multiple task types
+- Didnt' assess navigation, fixed green line path
+- Baseline walking segment
+- Slowdown on omnidirectional treadmill: kinematics of walking consistent
+- Measured same MOCA score but deficiency showed in DtART platform
+- stressors
+	- Different floor type
+	- Beam
+	- Narrowing of room
+	- Heights
+	- Cognitive decoupling: animal identification with incorrect labeling
+- Synchronization challenges: sync pulse in hardware, software verification 
+- Mandy Koop methods paper
+- Cmpliance struggles
+- DTART platform
+	- System usability scale score: over 81
+- focus on end user
+- Auditory stroop, left and right controller input was tried
+	- Color stroop in AR, voice recognition issue
+	
 
 
 # BME Seminar - David Cunningham

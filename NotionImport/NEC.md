@@ -18,8 +18,18 @@ Fav video games and why: you are ___ trying to blank ____ but
 - Papers please
 
   
+# NEC Practice
 
-  
+## Abstract
+
+**Advisor:** Dr. Hamid Charkhkar 
+**Title:** Under (Plantar) Pressure: Effect of a Sensory Neuroprosthesis on Gait under Cognitive Load
+**Abstract:** There are more than a million people living with lower limb loss in the United States alone.  After amputation, these individuals rely on a prosthesis for ambulation but this device does not convey plantar sensation to the user.  Because of this absence, this population faces a higher cognitive load during ambulation.  This challenge spills into other deficits of gait such as lower balance confidence and reduced mobility.  Our team has developed a sensory neuroprosthesis (SNP) that utilizes high density nerve cuff electrodes to elicit plantar sensation in our participant's missing limb.  I have investigated how this intervention affects cognitive loading during walking with a dual-task experiment.  Participants walked with and without sensory stimulation on a self-paced treadmill while performing a variant of the Stroop task.  Metrics for both tasks were analyzed including reaction time, accuracy, and gait speed.  Increasing cognitive load resulted in longer reaction times across the board and higher gait speeds in two out of three participants.  I will discuss how these results suggest participants engage with a strategy of automatic walking in dual-task conditions and how plantar sensation could be modulating this shift.  Such an interaction would shed light on how peripheral input impacts processes in the central nervous system.
+
+
+
+
+
 
 # 9/1/23
 

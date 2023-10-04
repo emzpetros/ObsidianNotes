@@ -8,55 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f29e904fabea574",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Box Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b1d49c49d63c81f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Car.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59a2748f797d859b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Box Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "426fb2af7464d98e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/MSL Meetings.md",
+                "file": "Research/Experiments/Upright Perception Exp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76234017d8ab0712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Experiments/ColorWordMatch/Data Processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c68b12e9d925337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/HC  RT Meetings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a41d7ce9aa2774cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DT with Amputees.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5c422b56b194c77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/VR Thoughts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afcbd8b29640c83c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Experiments/ColorWordMatch/ColorWordMatch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ba54395b8fa7f06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NotionImport/NEC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -123,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/MSL Meetings.md",
+                "file": "NotionImport/NEC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/MSL Meetings.md",
+                "file": "NotionImport/NEC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/MSL Meetings.md"
+                "file": "NotionImport/NEC.md"
               }
             }
           },
@@ -194,34 +230,43 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "426fb2af7464d98e",
+  "active": "0ba54395b8fa7f06",
   "lastOpenFiles": [
-    "Pasted image 20230919095558.png",
+    "Research/HC  RT Meetings.md",
+    "NotionImport/NEC.md",
+    "Research/Experiments/ColorWordMatch/ColorWordMatch.md",
+    "DT with Amputees.md",
+    "NotionImport/Attachements/Untitled 529.png",
     "Research/Webinairs  Seminars.md",
+    "Research/Experiments/ColorWordMatch/Data Processing.md",
+    "NotionImport/Attachements/Untitled 528.png",
+    "NotionImport/Attachements/Untitled 527.png",
+    "NotionImport/Attachements/Untitled 526.png",
+    "NotionImport/Attachements/Untitled 523.png",
+    "NotionImport/Attachements/Untitled 522.png",
+    "NotionImport/Attachements/Untitled 521.png",
+    "NotionImport/Attachements/Untitled 520.png",
+    "NotionImport/Attachements/Untitled 518.png",
+    "NotionImport/Attachements/Untitled 519.png",
+    "NotionImport/Journal Club.md",
+    "NotionImport/Dual-task related gait changes in individuals with trans-tibial lower extremity amputation.md",
+    "Automaticity.md",
+    "Recovery Codes.md",
+    "R21.md",
+    "Untitled 1.md",
+    "Research/VR Thoughts.md",
+    "NotionImport/ReLLiNC.md",
+    "Research/Projects/3D Thresholding.md",
+    "Untitled.md",
+    "NotionImport/Literature Tracker.md",
+    "Research/Experiments/Upright Perception Exp.md",
+    "Research/MSL Meetings.md",
+    "Personal/Box Project.md",
+    "Personal/Car.md",
     "Personal/Phone Holder Car.md",
     "NotionImport/Alan Watts.md",
     "NotionImport/Alan Watts 2.md",
     "Research/Resources/D-Flow.md",
-    "Personal/Chicago Stuffs.md",
-    "Personal/Random.md",
-    "Personal/Chores.md",
-    "Personal/Piano Pot.md",
-    "Personal/Stuff to Play  Watch  Listen.md",
-    "Personal/Personal Home.md",
-    "Personal/General To Do.md",
-    "Personal/Minecraft Server.md",
-    "Personal/Movie  TV List.md",
-    "NotionImport/Undergrad Stuff.md",
-    "NotionImport/Scripts.md",
-    "NotionImport/Presentation.md",
-    "NotionImport/Page title.md",
-    "NotionImport/Look at sensors.md",
-    "NotionImport/Life.md",
-    "NotionImport/General.md",
-    "Personal/Games.md",
-    "NotionImport/Development of a body joint angle measurement system using IMU sensors 2.md",
-    "Personal/Chess Set.md",
-    "Personal/Car.md",
     "Personal",
     "NotionImport/Attachements/10_CustomSensors_JumpingJacks.mp4",
     "NotionImport/Attachements",
@@ -229,18 +274,8 @@
     "Research/Projects",
     "Research/Experiments/ColorWordMatch",
     "Research/Experiments/Dual Task",
-    "NotionImport/Attachements/Untitled 661.png",
-    "NotionImport/Attachements/wws-standard-hero-desktop-02-en-24may21.png",
     "NotionImport/Attachements/XsensDOTsensors_ArmsRise.mp4",
-    "NotionImport/Attachements/Smartwatches.jpg",
-    "NotionImport/Attachements/SleepoftheJust.jpg",
-    "NotionImport/Attachements/Screenshot_20230714-0941592.png",
-    "NotionImport/Attachements/LogoDesign_Revision_V2_RedGrey-01.jpg",
-    "NotionImport/Attachements/image-1689796293978.jpg3931479500884173701.jpg",
-    "NotionImport/Attachements/1068308.jpg",
     "Fandango_-_The_Batman_(2022)_-_Print_Your_Ticket.pdf",
-    "NotionImport/Attachements/6463560.jpg",
-    "NotionImport/Attachements/90e381d9cc9b987634df11d3715b12b1.1000x1000x1.jpg",
     "NotionImport/Attachements/10_CustomSensors_JumpingJacks_Camera.mp4"
   ]
 }

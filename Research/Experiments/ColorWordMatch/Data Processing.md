@@ -1,6 +1,84 @@
-  
 
+# Automaticity 
+
+COM: lateral usually decreases for better stability as speed increases
+- May indicate more automatic spinal level of control , bypassing cerebellum/vestibular input 
+Bow tie becomes more U shaped, increasing in z 
+
+Tesio 
+```
+The mechanical role of plantar flexors seems crucial, given that they are synchronous with the a increment of Etot, which is 3 to 4 times higher than the b increment at all velocities (Figure 8A) (20). In the asymmetric impairment caused by above- or below-knee amputation, the a increment is increased when the unaffected limb is trailing (N/P transition in Figure 8B); correspondingly, the plantar flexors may generate a peak power 3 times higher, compared to the next a increment sustained by the muscles of the amputated limb (P/N transition in Figure 8B) (66).
+```
+
+# NEC Data Synthesis
+
+LE02;
+- GRF: mix of PST and INT effects
+- 
+
+LE04:
+-  GRF: mix of PST and INT effects
+
+LE06:
+- GRF
+	- No SNP effects, few with stim type
+	- Only on INT 
+
+All Stimulus effect on INT min Y force (breaking)
+- Decrease for LE02/6, increase for 4
+- less cautious, speed up and increase maintaining steady gait
+
+Stride Time By leg
+Average
+- LE06 pst + int SNp
+- LE02 int Stimulus Type decrease with difficulty 
+-COV
+- LE02 pST snp
+Sd
+- LE02 pst SNP
+
+Stance Time by leg
+- LE02: greater times for easier, both legs
+- As task gets harder, less time in stance
+
+# GL
+CoM 3D
+Margin of stability 
+GRF over gait cycle 
+# GRF
+LE02: PST = R
+LE04: PST = R
+LE06: PST = L
+
+GRF: + values for x = outward 
+
+LHS = green
+LTO = red
+RHS = blue
+RTO = orange
+
+  # Remove from raw gait data
+  outliersRawGrf <- switch(i,NULL, NULL, c(5961:6026, 6270:6329, 8569:8630), NULL, NULL, c(5719:5780, 6035:6097))
+
+
+Old remove outliers 
+dim(GRF_L)[1] - length(outliersRawGrf)
+
+    originalGrfL <- GRF_L
+  originalGrfR <- GRF_R
+  GRF_L[-outliersRawGrf,] <-  data.frame(matrix(NA,    # Create empty data frame
+                          nrow = length(GRF_L) - length(outliersRawGrf),
+                          ncol = 3))
+  GRF_R[-outliersRawGrf,] <- data.frame(matrix(NA,    # Create empty data frame
+                          nrow = length(GRF_R) - length(outliersRawGrf),
+                          ncol = 3))
   
+  gaitMetricsAll <- computeGaitMetrics(1, gaitEventsL, gaitEventsR, trialData, 
+                                       trialExtract, heelDif)
+# Other Metrics
+CoM range (cm)
+e local dynamic stability (Lyapunov exponents, ask Suzhou. He dealt with it in the previous journal club). You may also need to check simple stride-to-stride variability (both spatial and temporal, see the paper from hausdorff). I think I shared you his paper before.
+
 
 # Off by one error 8/27
 
@@ -46,6 +124,8 @@ Normalize Grf from static trial
 Braking force should be negative
 
 - **negative force breaking force first HS, propulsive toe off**
+- GRF Y should be flipped. GRF X for the right foot should be flipped.
+- Positive x to the right 
 
 Grabbing the bar
 

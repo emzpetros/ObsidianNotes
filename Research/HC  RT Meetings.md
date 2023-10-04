@@ -1,4 +1,101 @@
-  
+
+Some metric of gait changing with task difficulty  
+
+Maybe had to do fixed paced experiment to consider 
+- Propose for committee 
+
+Control of narrative 
+
+Our analysis does not suggest a change in gait variability but proposing a new experiment 
+
+one or two slides where I'm going 
+
+Gait did not worsen even rxn time went up
+- Maintaining level of stability 
+- Not expecting a significant difference 
+
+Present issues (high variance), may need a new experiment that's okay 
+
+metrics are linked to the increase in gait speed, may have to investigate that as well 
+
+# 9/25/23
+
+Committee Meeting Agenda: getting to know you, brief summary - conf abstracts / papers, where you're going 
+- who you are, interests
+	- What you've done so far 
+		- Issues 
+		- Question, approach, typical results and one atypical 
+		- Speed up: structure of test, some other interaction , control level 
+		- Not a history lesson, not a chronology 
+		- higher level, keep focus 
+		- Something seminal that brings things together 
+	- Would like to have paper then
+- Don't have to have dissertation: id areas
+	- motor + cognitive, verticality 
+- Committees goals
+	- Haven't wasted time, some talent to focus on a question / research problem
+- credibility: what I'm good at, direction 
+- Ground everything in a theory 
+	- Base it on something in literature , some background 
+- PhD Ind of though, find a hole, map a way to fill it
+- Current Projects
+	- Color Word Match 
+	- Upright Perception 
+- Crowd Walking Experiment 
+	- Aims
+		- 
+
+NEC topic
+- DT work 
+- Dialogue, WIP
+- Can focus on one area
+- NEC will focus on what you tell them
+- Data driven , more pictures less words 
+
+Pictures > text, call outs 
+
+Committee is guiding to dissertation
+
+
+
+HC
+- Follow up on paper
+	- May need to include figures, may not be able to keep them in google doc for Ron to access 
+	- Was waiting for Janet's work 
+- Anything specific for committee meeting
+	- October 12th
+	- How to develop your work
+	- So what, where is this leading 
+	- Really push you to think about PhD is going to be defined , how to shape PhD
+		- Good justification + why from ***literature review*** 
+	- Bring in vestibular 
+		- Peripheral to central integration + higher processes 
+	- Good job reading lit
+- NEC outline
+	- Data rich, less good at philosophy around things - painting a big picture, change the world
+	- Blue collar scientists , bring some big picture in
+	- Experiment design: 5 slides itself 
+		- Interactive bit
+		- Literature , pictures 
+	- DT is more exciting : closer to neuroscience + what's happening in the brain, less reporting on technology 
+	- Pushback on some of the questions: consider this and that, defend our approach 
+		- Esp with methodology: reaction times show it is hard enough , can quantitively report that
+		- Easy comment for outsider to say why not make it harder
+
+MF
+- Morgan Mcgrath : thesis work 
+- Patients only self reported freezing
+- Center of mass zig-zaging: not typical trajectory, marker tracking
+	- Input delay 
+- exercise pressor
+- **Morgan McGrath**. MSTP Year: PhD 1. Email: **morgan**.**mcgrath**@case.edu. Mentor: Jay Alberts. PhD Program: Clinical Translational Science. R 
+	- https://researchguides.case.edu/c.php?g=17536&p=7742549
+	- 
+
+Kristen's thesis
+
+James Finely USC
+
 
 # 8/21/23
 

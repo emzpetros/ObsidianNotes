@@ -10,9 +10,14 @@ Label:
 
   
 
-  
-
-  
+# MSL Notes
+- Slide #2: maybe add a visual  
+- Justification that they were always presented with neutral, then CC and then IC? why not randomized  
+- You may want to report accuracy in a table as well  
+- SNP inactive and active: posthoc test should determine where it happens? It’s an overall effect?  
+- Evidence on prioritizing cognitive task vs motor task for LL2 as opposed to LL1 and LL3?  
+- Gait stability measures  
+- Talk to David Cunningham 
 
 # 9/12/23 LE06 - Prioritzation
 

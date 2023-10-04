@@ -3,12 +3,26 @@ Passing data between MATLAB apps
 [https://www.mathworks.com/matlabcentral/answers/273805-how-to-share-data-between-two-apps-which-is-made-from-app-designer](https://www.mathworks.com/matlabcentral/answers/273805-how-to-share-data-between-two-apps-which-is-made-from-app-designer)
 
   
+# 9/21/23 LE04
+Previous 2x off, normal, higher 
 
-- [ ] Something to raise monitor up
-- [ ] Longer HDMI cord
-- [ ]
+|Location|Duration|CH|PA|PW|IPI|Notes|
+|---|---|---|---|---|---|---|
+|1|5|11|1.2|100|50|Heel 1|
+|1|5|11|1.6|100|50|Heel 2|
 
   
+
+|Trial|Stim|
+|---|---|
+|1|Off|
+|2|Normal|
+|3|Off|
+|Break||
+|4|higher|
+|5|Off|
+|6|Normal|
+|7|Higher|
 
   
 

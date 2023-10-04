@@ -1,4 +1,36 @@
-  
+# Toward the Development of user-centered neurointegrated lower limb porstheses
+
+Good ref [1] on number of amputations, lower specific
+User not involved in control -> high cognitive fatigue + energy consumption  [84]
+
+Amputee Background
+- Comorbidities, socket issue, low activity levels
+
+	User needs table: walking on uneven terrain
+Current prosthetic systems figure: 
+
+Prosthesis Deficiencies: higher cognitive burden [152-155]
+[152] F. Maria Petrini et al., “Enhancing functional abilities and cognitive integration of the lower limb prosthesis,” 2019. [Online]. Available: https://www.science.org 
+[153] F. M. Petrini et al., “Sensory feedback restoration in leg amputees improves walking speed, metabolic cost and phantom pain,” Nat Med, vol. 25, no. 9, pp. 1356–1363, Sep. 2019, doi: 10.1038/s41591-0190567-3. 
+[154] C. Dietrich et al., “Leg prosthesis with somatosensory feedback reduces phantom limb pain and increases functionality,” Front Neurol, vol. 9, no. APR, Apr. 2018, doi: 10.3389/fneur.2018.00270. 
+[155] S. Raspopovic et al., “Sensory feedback for limb prostheses in amputees,” Nature Materials, vol. 20, no. 7. Nature Research, pp. 925–939, Jul. 01, 2021. doi: 10.1038/s41563-021-00966-9. 
+[156] G. Valle et al., “Mechanisms of neuro-robotic prosthesis operation in leg amputees,” 2021. [Online]. Available: https://www.science.org
+
+
+TRL ratings : can be massaged a bit for your purposes 
+- TRL 5 to 6 in grant
+
+Myoelectric actually can increase cognitive burden: have to focus on muscle contraction 
+- We have electrodes above level of amputation not just residual - increase # of inputs which we can extra intended movement, lessen cognitive burden 
+
+Simona Crea: noninvasive
+- https://ieeexplore.ieee.org/abstract/document/6942273
+Surface stim
+- Non-amputee, diabetic population 
+- May be able to reach tibial nerve around ankle or behind the knee
+
+Warm - C fibers, cold - A delta
+
 
 # Papers from RT
 
