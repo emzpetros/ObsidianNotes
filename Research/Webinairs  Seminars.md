@@ -1,4 +1,76 @@
 
+# Treating the Good Arm in Stroke Survivors
+Robert Sainburg from Penn State University
+
+Notes
+- Lateralization of higher structures not directly connected to periphery  
+- Left - ordinary and familiar, right unexpected  
+	- Optimal and impedance control  
+	- Non dom is less energy efficient  
+	- Dominant may be predictive based  
+- Cortex
+	- Posterior and superior temporal  
+	- Lexicon, syntax go  
+	- Left dominant  
+	- Right : intonation  
+- Non dominant is better, but people report dominant is better: may feel more agency
+- Experiments of control  
+	- Airfield  
+	- Dominant did worse in unstable field, relying on predictive control  
+- Human deafferenation  
+	- Ia and II fibers dead via virus  
+	- ALS empathized  
+		- No gating in SC
+	- all feed forward  
+	- two different control systems  
+- MCA stroke leading to hemiparesis  
+- Left inferior parietal lobule  
+- Motor consolidation: more generalized than just rote movement  
+	- Posterior parietal cortex: stimulate to benefit both hands in learning and transfer  
+	- zInter limb transfer
+
+  Visual motor rotations: with feet?  
+
+## ANAT Write Up
+2. Attend a Neuroscience Seminar/Symposium (or one from a related field) at
+CWRU or Lerner Research Institute and write a brief summary of the seminar (< 2 pages),
+being sure to identify neuroanatomical structures that were involved in the
+research study discussed.
+Points:
+1 pt: Provides brief description of what was presented
+
+1 pt: Identifies neuroanatomical structures relevant to the research
+presented discussed and/or specific structures discussed in the course of
+the session.
+2 pts: Identifies and describes what was learned and how it improves one’s
+knowledge of neuroanatomy or differs from what was taught in this
+course.
+1: Completed on time
+Total: 5 pts
+
+
+
+Neural Prosthesis Seminar: Robert Sainburg, Penn State University 
+Dr. Sainburg's talk focused on the study of "handedness" with primarily stroke patients.  The motivation for this area of research came from the concept of lateralization in control structures.  Most people have speech and language centers of the cortex located in the left hemisphere and are left dominant.  Dr. Sainburg started looking into if there is a component of motor control that is also lateralized.  At a low level, the primary motor cortex maps symmetrically (and contralaterally) to the corresponding parts of the body it innervates.  However, in studies of fast arm movements toward targets in able-bodied participants the characteristics of the trajectories between the left and right arms differed.  Further studies, elucidated that the dominant arm (right in all his studies) was more energy efficient.  Follow up studies, identified the right hand as performing better in tasks that were predictive in nature while the left hand was superior in uncertain environments.  Modeling studies produced similar results by showing right hand trajectories could be approximated with optimal control and left hand trajectories with impedance control.  In this way, there is a lateralization of control at a cortical level in motor control.  For stroke patients, this work led to the concept of treating the "good arm."  With a lesion in one hemisphere making the contralateral limb paretic, a stroke patient relies on their ipsilateral limb.  However, depending on which hemisphere was affected the intact limb will still struggle with some movements since each hand is optimized for different aspects of control.  Therefore, targeting the "good" arm with transcranial direct current stimulation or simply training regimes could improve quality of life for these patients by developing the arm most relied upon for a wider variety of motor tasks.
+
+
+This talk discussed several different structures from class.  The concept of left hemisphere dominance used the example of language and referenced Broca's and Wernicke's area in all but name.  Low level motor control relating to the pre-central gyrus and the motor homunculus was also mentioned as a brief intro into low level motor control.  When explaining the patient characteristics in the studies Dr. Sainburg specifically called out the patients as suffering from MCA strokes leading to hemiparesis.  This section of the talk directly called back to the many examples in class of localizing an injury's location based of the symptoms.  
+
+# BMES Practice Lindsey
+ 
+Reported intensities vs sensations - 6
+
+Larger font on axes 
+
+show upper limb plot with lower limb ones?
+
+gray out sensation intensity table, show 0.5 only applies to the right col
+
+max comfortable vs most intense
+
+
+# Hailey MSK
+![[Pasted image 20231004163855.png]]
 
 # NP Dr. Jay Alberts
 Benefits of AR vs VR for gait and cogntitive tasks

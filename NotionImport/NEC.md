@@ -1,3 +1,5 @@
+
+
 # fun topic ideas
 
 Fav video games and why: you are ___ trying to blank ____ but
@@ -19,6 +21,22 @@ Fav video games and why: you are ___ trying to blank ____ but
 
   
 # NEC Practice
+
+Confirming automaticity leads to steadier gait
+What did the baseline speeds look like and gait metrics
+What could happen if doing it while sitting to remove postural component as well
+How would the task change without visual information or perturbed visual feedback
+What would this look like in able bodied with numbed sensation 
+Could this theory of automaticity + our SNP intervention have an effect for SCI patients 
+Is baseline walking self paced
+Inverse relationship of rxn time and accuracy 
+Why this task and not others
+What cognitive processes does this task target, what others could be targeted by different tasks?
+Examine their qualitative strategy for walking, heel + toe strat
+
+
+![[Pasted image 20231006100024.png]]
+
 
 ## Abstract
 

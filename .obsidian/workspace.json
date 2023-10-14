@@ -8,66 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "426fb2af7464d98e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Experiments/Upright Perception Exp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76234017d8ab0712",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Experiments/ColorWordMatch/Data Processing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c68b12e9d925337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/HC  RT Meetings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a41d7ce9aa2774cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DT with Amputees.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5c422b56b194c77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/VR Thoughts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "afcbd8b29640c83c",
             "type": "leaf",
             "state": {
@@ -90,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8ad58ccd4236a78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Webinairs  Seminars.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fe3c25a613b3a04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Experiments/Upright Perception Exp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "478252367b422821",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Committee Meetings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotionImport/NEC.md",
+                "file": "Research/Webinairs  Seminars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NotionImport/NEC.md",
+                "file": "Research/Webinairs  Seminars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotionImport/NEC.md"
+                "file": "Research/Webinairs  Seminars.md"
               }
             }
           },
@@ -230,52 +206,53 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0ba54395b8fa7f06",
+  "active": "f8ad58ccd4236a78",
   "lastOpenFiles": [
-    "Research/HC  RT Meetings.md",
-    "NotionImport/NEC.md",
-    "Research/Experiments/ColorWordMatch/ColorWordMatch.md",
-    "DT with Amputees.md",
-    "NotionImport/Attachements/Untitled 529.png",
+    "Research/Experiments/Upright Perception Exp.md",
     "Research/Webinairs  Seminars.md",
+    "Committee Meetings.md",
+    "NotionImport/PhD Program.md",
+    "Research/Experiments/ColorWordMatch/ColorWordMatch.md",
+    "Research/VR Thoughts.md",
+    "R21.md",
+    "Zotero/_Zotero Template.md",
+    "Zotero/_Zotero Database.md",
+    "NotionImport/NEC.md",
+    "Zotero/albertsImmersiveClevelandClinic2022.md",
+    "Zotero/pagnussatPlantarStimulationAlters2020.md",
+    "Zotero/dickinsonVirtualRealityCrowd2019.md",
+    "Research/HC  RT Meetings.md",
+    "Zotero/manzReviewUserNeeds2022.md",
+    "Pasted image 20231006100024.png",
+    "Pixel  Buds Teardown.md",
+    "Pasted image 20230919095558.png",
+    "Pasted image 20231004163855.png",
     "Research/Experiments/ColorWordMatch/Data Processing.md",
+    "Zotero/alfuthEffectsChangesPlantar2012.md",
+    "Zotero/foisyPlantarCutaneousAfferents2018.md",
+    "Untitled 1.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "foisyPlantarCutaneousAfferents2018/Images/image-7-x151-y600.png",
+    "foisyPlantarCutaneousAfferents2018/Images",
+    "foisyPlantarCutaneousAfferents2018",
+    "Zotero",
+    "DT with Amputees.md",
+    "Personal/Random.md",
+    "NotionImport/Attachements/Untitled 529.png",
     "NotionImport/Attachements/Untitled 528.png",
     "NotionImport/Attachements/Untitled 527.png",
     "NotionImport/Attachements/Untitled 526.png",
     "NotionImport/Attachements/Untitled 523.png",
     "NotionImport/Attachements/Untitled 522.png",
-    "NotionImport/Attachements/Untitled 521.png",
-    "NotionImport/Attachements/Untitled 520.png",
-    "NotionImport/Attachements/Untitled 518.png",
-    "NotionImport/Attachements/Untitled 519.png",
     "NotionImport/Journal Club.md",
     "NotionImport/Dual-task related gait changes in individuals with trans-tibial lower extremity amputation.md",
-    "Automaticity.md",
-    "Recovery Codes.md",
-    "R21.md",
-    "Untitled 1.md",
-    "Research/VR Thoughts.md",
-    "NotionImport/ReLLiNC.md",
-    "Research/Projects/3D Thresholding.md",
-    "Untitled.md",
-    "NotionImport/Literature Tracker.md",
-    "Research/Experiments/Upright Perception Exp.md",
-    "Research/MSL Meetings.md",
-    "Personal/Box Project.md",
-    "Personal/Car.md",
-    "Personal/Phone Holder Car.md",
-    "NotionImport/Alan Watts.md",
-    "NotionImport/Alan Watts 2.md",
-    "Research/Resources/D-Flow.md",
     "Personal",
     "NotionImport/Attachements/10_CustomSensors_JumpingJacks.mp4",
     "NotionImport/Attachements",
     "Research/Resources",
     "Research/Projects",
     "Research/Experiments/ColorWordMatch",
-    "Research/Experiments/Dual Task",
-    "NotionImport/Attachements/XsensDOTsensors_ArmsRise.mp4",
-    "Fandango_-_The_Batman_(2022)_-_Print_Your_Ticket.pdf",
-    "NotionImport/Attachements/10_CustomSensors_JumpingJacks_Camera.mp4"
+    "Research/Experiments/Dual Task"
   ]
 }

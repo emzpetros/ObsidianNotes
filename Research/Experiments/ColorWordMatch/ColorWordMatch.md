@@ -8,7 +8,28 @@ Label:
 
 [[Research/Experiments/ColorWordMatch/Data Processing]]
 
-  
+
+# NEC notes
+# Automaticity 
+
+COM: lateral usually decreases for better stability as speed increases
+- May indicate more automatic spinal level of control , bypassing cerebellum/vestibular input 
+Bow tie becomes more U shaped, increasing in z 
+
+Tesio 
+```
+The mechanical role of plantar flexors seems crucial, given that they are synchronous with the a increment of Etot, which is 3 to 4 times higher than the b increment at all velocities (Figure 8A) (20). In the asymmetric impairment caused by above- or below-knee amputation, the a increment is increased when the unaffected limb is trailing (N/P transition in Figure 8B); correspondingly, the plantar flexors may generate a peak power 3 times higher, compared to the next a increment sustained by the muscles of the amputated limb (P/N transition in Figure 8B) (66).
+```
+
+
+Evidence for motor learning in Parkinson's disease: Acquisition, automaticity and retention of cued gait performance after training with external rhythmical cues
+```
+Augmented visual feedback also facilitated motor learning in a novel upper limb task in PD (Verschueren et al., 1997). Interestingly in this study, the effects were not retained in the absence of sensory information, highlighting the possibility that learning in PD is context specific with external feedback being incorporated into the motor program
+```
+
+Movement Disorders
+```Interestingly, the increased activity of networks involved in the attentional control disappears when the task is performed automatically in healthy individuals
+```
 
 # MSL Notes
 - Slide #2: maybe add a visual  

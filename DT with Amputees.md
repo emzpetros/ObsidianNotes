@@ -30,3 +30,4 @@ The effects of a concurrent task on walking in persons with transfemoral amputat
 	- Both groups had longer response times with DT
 	- Self-reported higher difficulty 
 	- Limitation that individuals had a high level of physical capability 
+

@@ -1,8 +1,42 @@
-Passing data between MATLAB apps
+	Passing data between MATLAB apps
 
 [https://www.mathworks.com/matlabcentral/answers/273805-how-to-share-data-between-two-apps-which-is-made-from-app-designer](https://www.mathworks.com/matlabcentral/answers/273805-how-to-share-data-between-two-apps-which-is-made-from-app-designer)
 
-  
+
+# 10/5/23 LE01
+ 
+
+|Location|Duration|CH|PA|PW|IPI|Notes|
+|---|---|---|---|---|---|---|
+|1|5|5|1.2|120|50|toe|
+|1|5|12|1|140|50|toe|
+
+  little toe, 0.3
+  5 120 1.2
+  1.3 left side of calf 0.3
+130 1 : ilttle toe + next to it - air movement sensation 
+
+12 140 1 - back of calf center tingling, 0.3
+140 0.8 - nothing 
+120 1 - nothing
+
+12 140 1 - small toe and one next to it, no movement 0.3
+5 120 1.2
+
+
+|Trial|Stim|
+|---|---|
+|1|Off|
+|2|Normal|
+|3|Off|
+|4|Normal|
+|break||
+|5|Off|
+|6|Normal|
+|7|Off|
+
+
+
 # 9/21/23 LE04
 Previous 2x off, normal, higher 
 
@@ -176,3 +210,6 @@ Sessions 1-3
 118cm
 
 300
+
+Trial 1,3 OFF
+Trial 2, 4 ON

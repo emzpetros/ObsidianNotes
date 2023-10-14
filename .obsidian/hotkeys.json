@@ -1,1 +1,11 @@
-{}
+{
+  "obsidian-zotero-desktop-connector:zdc-exp-Zotero": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "I"
+    }
+  ]
+}

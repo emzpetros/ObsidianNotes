@@ -1,4 +1,7 @@
 
+
+
+# 10/11/23 Pre NEC
 Some metric of gait changing with task difficulty  
 
 Maybe had to do fixed paced experiment to consider 
@@ -18,7 +21,7 @@ Present issues (high variance), may need a new experiment that's okay
 
 metrics are linked to the increase in gait speed, may have to investigate that as well 
 
-# 9/25/23
+# 9/25/23 RT
 
 Committee Meeting Agenda: getting to know you, brief summary - conf abstracts / papers, where you're going 
 - who you are, interests
@@ -97,7 +100,7 @@ Kristen's thesis
 James Finely USC
 
 
-# 8/21/23
+# 8/21/23 HC
 
 To Do
 

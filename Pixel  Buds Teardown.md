@@ -1,0 +1,1 @@
+https://www.ifixit.com/Guide/Google+Pixel+Buds+A-Series+Mainboard+Replacement/157970
