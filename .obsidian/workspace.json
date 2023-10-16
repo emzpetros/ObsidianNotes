@@ -66,9 +66,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ca17887e5206d3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Classes/ANAT414.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b44b4952b4b56e3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -118,8 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ce3ade9153ee2e84",
@@ -135,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Webinairs  Seminars.md",
+                "file": "School/Classes/ANAT414.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Webinairs  Seminars.md",
+                "file": "School/Classes/ANAT414.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Webinairs  Seminars.md"
+                "file": "School/Classes/ANAT414.md"
               }
             }
           },
@@ -206,11 +227,24 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f8ad58ccd4236a78",
+  "active": "6ca17887e5206d3a",
   "lastOpenFiles": [
-    "Research/Experiments/Upright Perception Exp.md",
-    "Research/Webinairs  Seminars.md",
+    "Pasted image 20231004163855.png",
+    "Pasted image 20231006100024.png",
+    "School/Classes/ANAT414.md",
+    "School/Classes/_IndexClasses.md",
+    "School/Classes/Images/Pasted image 20231015092930.png",
+    "School/Classes/Images/Pasted image 20231015092848.png",
+    "School/Classes/Images/Pasted image 20231015092841.png",
+    "School/Classes/Images/Pasted image 20231015092832.png",
+    "School/Classes/Images/Pasted image 20231015092815.png",
+    "School/Classes/Images/Pasted image 20231015092806.png",
+    "School/Classes/Images/Pasted image 20231015092754.png",
+    "School/Classes/Images/Pasted image 20231015092657.png",
+    "School/Classes/Images",
     "Committee Meetings.md",
+    "Research/Webinairs  Seminars.md",
+    "Research/Experiments/Upright Perception Exp.md",
     "NotionImport/PhD Program.md",
     "Research/Experiments/ColorWordMatch/ColorWordMatch.md",
     "Research/VR Thoughts.md",
@@ -223,36 +257,23 @@
     "Zotero/dickinsonVirtualRealityCrowd2019.md",
     "Research/HC  RT Meetings.md",
     "Zotero/manzReviewUserNeeds2022.md",
-    "Pasted image 20231006100024.png",
     "Pixel  Buds Teardown.md",
     "Pasted image 20230919095558.png",
-    "Pasted image 20231004163855.png",
     "Research/Experiments/ColorWordMatch/Data Processing.md",
     "Zotero/alfuthEffectsChangesPlantar2012.md",
     "Zotero/foisyPlantarCutaneousAfferents2018.md",
     "Untitled 1.md",
     "Untitled 3.md",
     "Untitled 2.md",
-    "foisyPlantarCutaneousAfferents2018/Images/image-7-x151-y600.png",
     "foisyPlantarCutaneousAfferents2018/Images",
     "foisyPlantarCutaneousAfferents2018",
     "Zotero",
     "DT with Amputees.md",
-    "Personal/Random.md",
-    "NotionImport/Attachements/Untitled 529.png",
-    "NotionImport/Attachements/Untitled 528.png",
-    "NotionImport/Attachements/Untitled 527.png",
-    "NotionImport/Attachements/Untitled 526.png",
-    "NotionImport/Attachements/Untitled 523.png",
-    "NotionImport/Attachements/Untitled 522.png",
-    "NotionImport/Journal Club.md",
-    "NotionImport/Dual-task related gait changes in individuals with trans-tibial lower extremity amputation.md",
     "Personal",
     "NotionImport/Attachements/10_CustomSensors_JumpingJacks.mp4",
     "NotionImport/Attachements",
     "Research/Resources",
     "Research/Projects",
-    "Research/Experiments/ColorWordMatch",
-    "Research/Experiments/Dual Task"
+    "Research/Experiments/ColorWordMatch"
   ]
 }
