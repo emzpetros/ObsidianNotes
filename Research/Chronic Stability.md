@@ -1,16 +1,18 @@
----
-Priority: Today
-Status: Not started
----
 # To Do
-- [ ] update manuscript with info from mike miller
-- [ ] update manuscript w/ LE04 data
-- [ ] Update manuscript with stuff from CFINE refs
+- [x] update manuscript with info from mike miller
+- [x] update manuscript w/ LE04 data
+- [x] Update manuscript with stuff from CFINE refs
+- [ ] Update intro with HC comments
 
   
 
-- [https://scholar.google.com/scholar_lookup?title=Estimating the prevalence of limb loss in the United States%3A 2005 to 2050&journal=Arch Phys Med Rehabil&volume=89&issue=3&pages=422-429&publication_year=2008&author=Ziegler-Graham%2CK&author=MacKenzie%2CEJ&author=Ephraim%2CPL&author=Travison%2CTG&author=Brookmeyer%2CR](https://scholar.google.com/scholar_lookup?title=Estimating%20the%20prevalence%20of%20limb%20loss%20in%20the%20United%20States%3A%202005%20to%202050&journal=Arch%20Phys%20Med%20Rehabil&volume=89&issue=3&pages=422-429&publication_year=2008&author=Ziegler-Graham%2CK&author=MacKenzie%2CEJ&author=Ephraim%2CPL&author=Travison%2CTG&author=Brookmeyer%2CR)
-**Outline**
+# Fall 23 Edits
+Intro reorganize
+- Neuroprostheses are connected to body, sensory systems
+- Why sensory info is important - functional challenges
+
+
+# Outline
 
 - Intro
     - Briefly outline why we would want to restore sensation
@@ -65,40 +67,44 @@ Status: Not started
     - Checking slack was not emphasized at first
     - In future surgeries, took care to maintain slack in leads
 
-  
+
 
   
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Notes
+# Notes
 
 Common points of failure here are the electrodes themselves and the connecting leads.  
 Implantable electrodes for interfacing with the peripheral nervous system can be classified according to invasiveness. Extraneural, intraneural, and regenerative electrodes offer increasing levels of selectivity and signal clarity at the cost of greater nerve damage [18]. Cuff electrodes are considered extraneural and do not penetrate into nerve fascicles or through the epineurium [19]. Though they are the least invasive electrode type, chronic stability remains a critical. Generally, cuff electrodes for restoring sensation have demonstrated stable long term performance especially when compared with penetrating electrodes [20].
 
   
+Examining the system performance over time, we also see that LL03’s system had improved overall stability throughout  data collection (_bar graphs over time_).  Whereas LL01 and LL02 saw a drop in the number of low EI / responsive contacts, LL02 had only 7 contacts with this behavior.
+
+  
+
+  
+
+QD= PA*PW/S
+
+The stimulation was a biphasic, charge-balanced, current-controlled, asymmetric, cathodic-first waveform.  PA values could range between 0 to 5.6 mA and PW between 1-255 μs.  IPIs was kept at 50 ms with a stimulation duration of 4-5 s.
+
+Charge density (QD, μC cm−2) of stimulation was calculated
+
+,
+
+in which S (cm2) was the surface area of a contact in the C-FINE.  QD values were limited to established safety levels according  to the following equation
+
+log⁡(QD)= k-log⁡(Q)
+
+where Q is charge per phase (μC) and k was restricted to k < 1.5-1.7 [27].
+
+  
+As mentioned above, out all the participants, LL03 had the best stability.  As seen in the _Fig. Best vs Worst Bar Graphs_ LL03’s implants maintained more functional contacts and demonstrated fewer failures than either LL01 or LL02.  This subject’s system was implanted with a revised surgical procedure.
+
+  
+
+Nerves with C-FINE cuffs alone have been shown to remain healthy and functional but implanted systems often depend on percutaneous leads attached to the electrodes.
+
+. Excessive pulling on percutaneous leads attached to the implanted electrodes can transmit unwanted force to the cuff or the nerve itself [21,29].
 
   
 
@@ -108,9 +114,7 @@ Implantable electrodes for interfacing with the peripheral nervous system can be
 
   
 
-Notes
-
-MM:
+# MM
 
 version 1 = Ardiem electrode with big bead transition to Medtronic connector
 
@@ -137,38 +141,3 @@ version 3 = Ardiem electrode with the much-smaller Ardiem connector which still 
   
 
   
-
-Examining the system performance over time, we also see that LL03’s system had improved overall stability throughout  data collection (_bar graphs over time_).  Whereas LL01 and LL02 saw a drop in the number of low EI / responsive contacts, LL02 had only 7 contacts with this behavior.
-
-  
-
-  
-
-QD= PA*PW/S
-
-The stimulation was a biphasic, charge-balanced, current-controlled, asymmetric, cathodic-first waveform.  PA values could range between 0 to 5.6 mA and PW between 1-255 μs.  IPIs was kept at 50 ms with a stimulation duration of 4-5 s.
-
-Charge density (QD, μC cm−2) of stimulation was calculated
-
-,
-
-in which S (cm2) was the surface area of a contact in the C-FINE.  QD values were limited to established safety levels according  to the following equation
-
-log⁡(QD)= k-log⁡(Q)
-
-where Q is charge per phase (μC) and k was restricted to k < 1.5-1.7 [27].
-
-  
-
-  
-
-  
-As mentioned above, out all the participants, LL03 had the best stability.  As seen in the _Fig. Best vs Worst Bar Graphs_ LL03’s implants maintained more functional contacts and demonstrated fewer failures than either LL01 or LL02.  This subject’s system was implanted with a revised surgical procedure.
-
-  
-
-  
-
-Nerves with C-FINE cuffs alone have been shown to remain healthy and functional but implanted systems often depend on percutaneous leads attached to the electrodes.
-
-. Excessive pulling on percutaneous leads attached to the implanted electrodes can transmit unwanted force to the cuff or the nerve itself [21,29].

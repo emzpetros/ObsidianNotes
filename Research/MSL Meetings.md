@@ -1,4 +1,18 @@
+# Eric Heidorn
 
+Trail-making test: random map of numbers / letters
+- Connect 1-5 and then 1-A-2-B...
+- Improvement potentially due to better oxygenation to brain after single legged cycling 
+Cross education
+- Performance improvement in one limb transferred to other limb 
+	- Interlateral or bilateral transfer - skill transfer
+	- Strength, skill changes 
+- Mech?
+	- No consistent muscle adaptations
+	- Maybe spinal circuitry, not sure of specific paths
+	- No change in H reflex 
+	- H.Lim and S. Madhavan 2023: cortical interconnection, activation of ipsilateral descending pathway, facilitation of spinal circuits 
+	- Could look at this in SCI and isolate CNS from peripheral mech
 
 
 

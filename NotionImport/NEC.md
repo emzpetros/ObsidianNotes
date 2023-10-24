@@ -19,6 +19,10 @@ Fav video games and why: you are ___ trying to blank ____ but
 - Hollow Knight : exploration
 - Papers please
 
+# Ben 
+Sensory vs motor selectivity 
+
+Sensory fibers activated first due to sheer number of fibers 
   
 # NEC Practice
 

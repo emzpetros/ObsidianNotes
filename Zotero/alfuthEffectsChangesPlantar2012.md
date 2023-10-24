@@ -2,8 +2,7 @@
 category: literaturenote
 tags: 
 citekey: alfuthEffectsChangesPlantar2012
-status: unread
-dateread:
+status: read
 ---
 
 > [!Cite]

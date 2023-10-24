@@ -2,8 +2,7 @@
 category: literaturenote
 tags: 
 citekey: dickinsonVirtualRealityCrowd2019
-status: unread
-dateread:
+status: read
 ---
 
 > [!Cite]

@@ -2,8 +2,7 @@
 category: literaturenote
 tags: 
 citekey: manzReviewUserNeeds2022
-status: unread
-dateread:
+status: read
 ---
 
 > [!Cite]

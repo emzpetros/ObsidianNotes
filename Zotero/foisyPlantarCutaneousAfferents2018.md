@@ -2,8 +2,7 @@
 category: literaturenote
 tags: 
 citekey: foisyPlantarCutaneousAfferents2018
-status: unread
-dateread:
+status: read
 ---
 
 > [!Cite]

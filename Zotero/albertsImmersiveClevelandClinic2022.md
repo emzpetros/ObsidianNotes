@@ -3,7 +3,6 @@ category: literaturenote
 tags: 
 citekey: albertsImmersiveClevelandClinic2022
 status: unread
-dateread:
 ---
 
 > [!Cite]

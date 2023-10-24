@@ -1,4 +1,9 @@
-Features of Interest
+
+
+# Progress
+
+3D model imported into MATLAB as a point cloud of XYZ points 
+# Features of Interest
 
 - areas of sensation : regions, overlaps, close to level of amputation
 - Yield of channels: any sensation, plantar

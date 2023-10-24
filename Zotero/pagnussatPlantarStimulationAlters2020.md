@@ -2,8 +2,7 @@
 category: literaturenote
 tags: 
 citekey: pagnussatPlantarStimulationAlters2020
-status: unread
-dateread:
+status: read
 ---
 
 > [!Cite]
