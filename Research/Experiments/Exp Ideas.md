@@ -2,6 +2,10 @@
 Label:
   - Research
 ---
+# Able Bodied Protocol Notes
+Simulating ADLs
+Working memory, verbal fluency, selective attention, response inhibition 
+
 # Go No Go
 
 [https://www.psytoolkit.org/experiment-library/go-no-go.html](https://www.psytoolkit.org/experiment-library/go-no-go.html)

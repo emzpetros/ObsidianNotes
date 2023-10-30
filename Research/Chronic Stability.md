@@ -7,9 +7,24 @@
   
 
 # Fall 23 Edits
-Intro reorganize
+Intro reorganize: 
+```
+For example: determine how you would like the intro to develop: you introduce sensory neuroprosthesis, then say why it is important, then you go to the importance of the sensation from the lower limb, and then you say why implanted approaches are better, then focus on cuff electrodes and highlight the need for chronic stability. Overall, this is a good flow but it seems some parts need a little merging or deleting to keep the intro on a focused message and not jumping between different topics. Try to abbreviate a few key words to avoid repeating. Also, it felt to me that you start focusing on cuffs but you make it general all of a sudden and then you come back to cuffs again. It is ok to say intraneural electrodes are not a long-term option.
+```
 - Neuroprostheses are connected to body, sensory systems
 - Why sensory info is important - functional challenges
+
+
+Importance of sensation for LLA
+Conventional prostheses fall short
+Sensory neuroprostheses restore sensation 
+Approaches for LLA
+- Spinal stimulation 
+- Peripheral 
+	- Intra neural
+	- Extraneural
+need to look at chronic stability in lower limb 
+
 
 
 # Outline

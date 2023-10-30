@@ -1,3 +1,4 @@
+# [[bordaAutomatedCalibrationSomatosensory2023]]
 # Toward the Development of user-centered neurointegrated lower limb porstheses
 
 Good ref [1] on number of amputations, lower specific

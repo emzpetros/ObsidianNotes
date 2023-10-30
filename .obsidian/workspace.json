@@ -133,22 +133,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zotero/chandrasekaranSensoryRestorationEpidural2020.md",
+                "file": "Literature Thoughts.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e3bf8f5523275d7d",
+            "id": "883819a1f77b15d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Research/Chronic Stability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99883fa3ad562c65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zotero/bordaAutomatedCalibrationSomatosensory2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4907588079fadb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zotero/bordaAutomatedCalibrationSomatosensory2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffae58d572606815",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASCU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e5a25c47619ce84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Equipment.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -168,7 +220,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -199,7 +251,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ce3ade9153ee2e84",
@@ -215,6 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Research/Equipment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,6 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Research/Equipment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing Notes.md"
+                "file": "Research/Equipment.md"
               }
             }
           },
@@ -284,11 +339,27 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "56ac192fdb0d4275",
+  "active": "5e5a25c47619ce84",
   "lastOpenFiles": [
-    "Writing Notes.md",
-    "Zotero/chandrasekaranSensoryRestorationEpidural2020.md",
+    "ASCU.md",
+    "Research/Equipment.md",
+    "Zotero/bordaAutomatedCalibrationSomatosensory2023.md",
+    "224997uparrowb.md",
+    "Research/Images/Pasted image 20231030111330.png",
+    "Research/Images",
+    "Research/Projects/3D Thresholding.md",
+    "Research/Experiments/VR Cycling.md",
+    "NotionImport/Journal Club.md",
+    "Research/Chronic Stability.md",
+    "Research/Experiments/Exp Ideas.md",
     "Literature Thoughts.md",
+    "Research/Webinairs  Seminars.md",
+    "Zotero/roepkeLongitudinalStudySocial2017.md",
+    "Zotero/hunterRiskFactorsFalls2017.md",
+    "Zotero/coffeyCognitiveFunctioningPersons2012.md",
+    "Zotero/cieslakAssociationChangesSubjective2020.md",
+    "Zotero/chandrasekaranSensoryRestorationEpidural2020.md",
+    "Writing Notes.md",
     "Zotero/laskinSpinalCordStimulation2022.md",
     "laskinSpinalCordStimulation2022/Images/image-6-x305-y52.png",
     "laskinSpinalCordStimulation2022/Images",
@@ -304,33 +375,17 @@
     "liangSystematicReviewComputational2023",
     "@hunterRiskFactorsFalls2017.md",
     "Zotero/millerkoopMicrosoftHoloLensProvides2022.md",
-    "Zotero/albertsDigitizingTherapeuticDevelopment2022.md",
     "albertsDigitizingTherapeuticDevelopment2022/Images/image-3-x51-y204.png",
     "albertsDigitizingTherapeuticDevelopment2022/Images",
     "albertsDigitizingTherapeuticDevelopment2022",
-    "Zotero/schackIncreasedPrefrontalCortical2022.md",
-    "Zotero/frengopoulosDualtaskGaitAssessmenta.md",
     "frengopoulosDualtaskGaitAssessmenta/Images/image-48-x95-y60.png",
     "frengopoulosDualtaskGaitAssessmenta/Images/image-40-x223-y224.png",
     "frengopoulosDualtaskGaitAssessmenta/Images/image-34-x161-y66.png",
     "frengopoulosDualtaskGaitAssessmenta/Images",
     "frengopoulosDualtaskGaitAssessmenta",
-    "Zotero/schackAssessingMobilityPersons2021.md",
-    "Zotero/cieslakAssociationChangesSubjective2020.md",
-    "Zotero/hunterCognitionPredictsMobility2019.md",
-    "Zotero/coffeyCognitiveFunctioningPersons2012.md",
-    "Zotero/hunterRiskFactorsFalls2017.md",
-    "Zotero/mollerCorticalBrainActivity2020.md",
-    "Zotero/hunterDeterminingReliabilityDualTask2018.md",
-    "NotionImport/Literature Notes.md",
-    "NotionImport/NEC.md",
-    "Zotero/geurtsDualTaskAssessmentReorganization.md",
-    "Zotero/hunterDualtaskRelatedGait2018.md",
     "hunterDeterminingReliabilityDualTask2018/Images/image-5-x38-y552.png",
     "hunterDeterminingReliabilityDualTask2018/Images",
-    "hunterDeterminingReliabilityDualTask2018",
     "Zotero/Images/Pasted image 20231018153507.png",
-    "Zotero/taylorTurningBiasLateral2007/Images/image-9-x69-y76.png",
-    "Zotero/foisyPlantarCutaneousAfferents2018/Images/image-7-x151-y600.png"
+    "Zotero/taylorTurningBiasLateral2007/Images/image-9-x69-y76.png"
   ]
 }

@@ -4,38 +4,28 @@
 ![[PXL_20230113_171807677.jpg]]
 # ASCU
 
-- [ ] Terminal app: TeraTerm or Putty
-    - [ ] [[224997uparrowb]]
-    - [ ] [https://superuser.com/questions/770593/with-putty-how-do-you-make-it-act-like-windows-cmd-prompt-with-up-arrow-presses](https://superuser.com/questions/770593/with-putty-how-do-you-make-it-act-like-windows-cmd-prompt-with-up-arrow-presses)
-- [x] Use with Arduino 2.0
+[[ASCU]]
+
 - [ ] Fix multiple “ch” terminology: channels vs mapping indexes
 - [ ] Storing profiles
+	- [x] ASCU 9
+	- [ ] ASCU 19
 
-  
+
 
 Mapping channels
-
 - cmp 1 0 : channel 1 to nothing
     - 1 heel, 2 midfoot, 3 toes
 - pcmp print contact map
 
-  
+Points of contact: Rachel Mann and John Schnell  
 
-John schnell and rachel.mann
-
-  
-
-  
-
-Troubleshooting
-
-- Can only upload new code when Tera Term is not open
+## Troubleshooting
+ Can only upload new code when Tera Term is not open
 
 ![[Untitled 591.png]]
 
-  
-
-# Rachel Notes
+## Rachel Notes
 
 For ASCU \#9, I noticed you said you were using AndroidLeSensory_v0p01.apk.  This is the oldest version.  Is there a specific reason you wanted to use this version?  When I put the most recent version of the app on the pixel 4a, I was able to get pairing.  I was also able to see stim output using the SNP start and stop buttons on the most recent app (AndroidLeSensory_v0p08.apk).  A step you may have forgotten was to specify the contact channel mapping. I used the command "cmpa 1 1 1 1 2 2 2 2 3 3 3 3" in the terminal.  Without this command, all of the contacts will default to "0", which is "off".  Channels in this default off setting will not stim.  I also set the max pulse widths for each channel to 255 by using the "setmx" command for each channel.  I believe these values are stored on the ASCU, so this system now works on startup, and you shouldn't have to retake these steps.
 
@@ -52,7 +42,7 @@ v0p08_AscuAmputee_0p11 f
 
 Buttons: RED stops stim, start only possible from terminal or the app
 
-  
+
 
 # MSL Stairs / Vicon / WW
 

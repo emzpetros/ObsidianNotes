@@ -1,4 +1,67 @@
 
+
+# Brain-computer interfaces for investigating how neural properties relate to adaptive learning
+
+Event Date: October 24th 3:00 PM - 4:00 PM
+
+**Speaker: Samantha R. Santacruz, Ph.D.**, Assistant Professor of Biomedical Engineering, University of Texas Austin
+
+**Abstract:** The brain is a complex system comprised of billions of neurons that work coherently together to control our behavior and general function. Large scale recordings of neural activity over broad anatomical areas with high spatial and temporal resolution are increasingly common in modern experimental neuroscience, generating datasets manifesting rich and varied dynamics. To tackle the scale and complexity of the observed dynamics, numerous approaches based on a dynamical systems framework have been proposed. Here we use a scalable approach to time-varying autoregression with low rank tensors to recover the recurrent dynamics in stochastic neural mass models with multiple stable attractors. We also consider how neural properties, at the individual neuron and population level, explain adaptation during learning. To this end, we examine learning during a neurofeedback task with perturbations. We find that certain key properties are predictive of how critical a neuron or population is to learning and how well the animal can adapt their neural activity within the task framework. 
+
+**About the Speaker:** Dr. Samantha R. Santacruz is currently an Assistant Professor at the University of Texas at Austin, working on developing closed-loop neurotherapies and brain-machine interfaces to both treat neural pathologies and to better understand the neural mechanisms responsible. Dr. Santacruz received her B.A. degree with honors in Applied Mathematics from UC Berkeley in 2006, her M.S. degree in Electrical Engineering from Rice University in 2010, and her Ph.D. degree in Electrical Engineering at Rice University in 2014. She was awarded the Best Thesis Award for her doctoral work on engineering new methods of deep brain stimulation, supervised by Drs. Behnaam Aazhang and Caleb Kemere. She completed her postdoctoral work in Dr. Jose Carmena’s lab at UC Berkeley. In 2020 she was selected as one of 85 participants in the National Academy of Engineering US Frontiers of Engineering Symposium and in 2022 she received the NSF CAREER Award.
+
+## Notes
+
+Lots of brain structures involved in tasks 
+
+Neural Signals: lots going on at differing scales
+- Whole brain - EEG
+Where to focus, what's relevant, integrate info at different scales
+
+Microelectrode focus: invasive but good resolution signals 
+- LPF -> Local field potential < 100 Hz
+- HPF -> high freq spikes - single neuron AP
+
+BCI - Hochberg
+- neurotherapuetics + basic science 
+	- Relate neural activity to behavior 
+
+BCI Paradigm
+- M1 and dorso premotor 
+- Spikes over time 
+- Decode activity into cursor movement 
+Introduce perturbation
+
+Hypoth: neural variability supports ability to adapt 
+
+### Rotation Perturbation 
+Biomimetic Decoder: mapping derived from animal doing a passive task
+- Just watching cursor move 
+- Great off the shelf performance
+
+Perturbation of rotation - can grade difficulty 
+- Arcing trajectory 
+- Adapts over course of block 
+
+What's happening neurally 
+- Trial times / cursor distance increase right when perturbation is introduced
+- Improves quickly 
+
+Adaptation outcome measure: captures velocity via time and distance
+- 15 and 90 degree rotations
+- +/- doesn't matter
+- Max adaptation 
+
+### Tech for Neural Int 
+Record + stimulate
+
+### Experiments
+Monkeys
+
+### Computational
+Modeling neural + behavior dynamics 
+
+
 # Treating the Good Arm in Stroke Survivors
 Robert Sainburg from Penn State University
 
