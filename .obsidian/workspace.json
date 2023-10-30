@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Equipment.md",
+                "file": "ASCU.md",
                 "mode": "source",
                 "source": false
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Equipment.md",
+                "file": "ASCU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Equipment.md",
+                "file": "ASCU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Equipment.md"
+                "file": "ASCU.md"
               }
             }
           },
@@ -341,8 +341,8 @@
   },
   "active": "5e5a25c47619ce84",
   "lastOpenFiles": [
-    "ASCU.md",
     "Research/Equipment.md",
+    "ASCU.md",
     "Zotero/bordaAutomatedCalibrationSomatosensory2023.md",
     "224997uparrowb.md",
     "Research/Images/Pasted image 20231030111330.png",
