@@ -3,13 +3,13 @@ The PW of the stim output is modulated along two lines
 - PW threshold to PWref and PWref to PWmax
 - ***Level modulates PW Ref***
 
-Below processing is done for each location (heel, midfoot, toes)
-
+Below processing is done for each location (heel, midfoot, toes) to create equations for the two lines and then take the insole values and calculate a PW value to output as stim
 
 ## Checks on Raw Level Values
-Levels set as *lev / 100*
+Levels set as *value-from-slider / 100*
 Corrected to 0.2 or -0.2 as needed if somehow set beyond the range of the sliders 
-Range check on PWref: setLevelLimMin = 0.05
+
+Safety check: setLevelLimMin = 0.05
 ```
 // safety check: check that level setting doesn't place PWref within certain % of PWmin and PWmax
     else if (((1 + levelFloat) * pwRef) <= ((1 + setLevelLimMin) * pwMin))
@@ -63,7 +63,7 @@ insole value = pressure value aka voltage
 
 Stim set with calculated PW (if it's less than pwMax) and PA value that was programmed in (PA not changeable via the app only by programming the board)
 
-Stim actually *delivered* as an event schedule in AscuAmputee.ino using computed PW 
+When stim set to on the output is delivered as an event schedule in the main AscuAmputee.ino script using the computed values for each location  
 
 # Raw Insole Values
 ```

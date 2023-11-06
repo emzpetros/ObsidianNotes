@@ -3,6 +3,7 @@
 - [x] update manuscript w/ LE04 data
 - [x] Update manuscript with stuff from CFINE refs
 - [ ] Update intro with HC comments
+- [ ] Follow up: surface stim not needed bc lack of implanted components?
 
   
 
@@ -18,7 +19,7 @@ For example: determine how you would like the intro to develop: you introduce se
 Importance of sensation for LLA
 Conventional prostheses fall short
 Sensory neuroprostheses restore sensation 
-Approaches for LLA
+*implanted* Approaches for LLA
 - Spinal stimulation 
 - Peripheral 
 	- Intra neural

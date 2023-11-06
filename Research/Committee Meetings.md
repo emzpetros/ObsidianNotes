@@ -2,6 +2,79 @@
 
 # Fall 23
 
+DK work corroborates findings that sensation improves push off force + symmetry 
+
+Block diagram: arrows are better to represent the real relationships
+- Double arrow from PS to G, one way PS to CNS and CNS to G
+
+No visual component in parkinson's disease test (serial subtraction), why
+- Consider doing same task as PD
+- What brain areas are you engaging
+	- Stroop w/ walking has been done, binary adjustment 
+	- Minimize language centers of brain
+- Back up with other stroop studies 
+- What cognitive process are you targeting, pick the test appropriately
+- Remember we are working with non impaired populations 
+
+Game theory of the tasks?  
+
+PD: other symptoms get worse with DT, tremor, would expect other movements to occur under DT
+
+Cog effect??
+- Only in one subj
+
+Fitt's Law?
+
+Leg lenth?
+- PST always shorter
+
+IRB standing + MOOG
+
+## EG
+Think about big picture + your key question
+Which hypothesis are you trying to test?  What connection in the model are you looking at?
+More justification for why LLA are best population to test in
+
+## RT
+*task you choose has to match hypoth + research question*
+- Hypoth: how does it change the model
+- Put it in a testable structure
+	- What research question, testable framework
+- Make sure we're answering something
+- Aims, hypoths, scope: what you want to do
+	- Don't present just as these are tools we have
+- Right models to test questions
+- ***Methods have to fit hypoth, hypoths have to fit questions, questions have to fit the pscyhophysical model***
+	- Inform them
+
+Define an overarching goal: aim + hypoth
+- Upright + VR don't fit as well
+
+Do we need a different test, don't fixate on stroop
+- Stronger justification for stroop: cortical areas engaged, why is it good for my research question
+- Compare to other tasks
+- Did they find it challenging
+- In past: stroop alone or serial 13(?)
+	- Static standing, sway examined 
+
+Don't get hung up on imaging, what does it add to an n of 3 ?  it would confirm
+
+Think about VR critically
+- Why not just put people in grocery stores
+- Why VR?
+- Why virtual
+
+What phenomenon do you want to explore?
+- Hone the questions to ask
+
+What about incongruent plantar sensation?
+
+- [ ] Revise block diagram
+- [ ] Cognitive domains of tasks
+- [ ] Task selection justification: visual component?
+- [ ] ID hypoth
+- [ ] Why LLA
+
 
 
 # Committee Thoughts

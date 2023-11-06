@@ -1,3 +1,48 @@
+# Mike Miller
+Acquiring accelerometer data + setting stim params with implanted Network Neural Prosthesis
+- Read acc, write stim
+
+Modules: titanium capsules with internal circuitry + port plugs
+- Power (can't use acc with any other modules on in network), 4 channel pulse gen, 2 ch biopotential recording
+- Trunk and/or hand systems 
+Control tower: turn on + recharge (alt kickstart coil for turning it on )
+- Radio communication
+- USB access point for MATLAB, android phone 
+- USB serial for realtime
+- Stand by mode: low power, needs to be on to receive stim commands 
+
+Programming
+- C firmware 
+	- Obj dictionary: operational params e.g. stim params
+- Apps in assembly : respond to user input on control tower or phone touchscreen
+- NNPAPI MATLAB API
+
+Bench testing on raw circuit boards 
+
+Experiments
+- Access via MATLAB, set params, turn off internal programming, set 25ms sync rate, turn network on to power modules
+- Set all modules to output raw data 
+- Send radio message to read data 
+	- 4 sep pulls would miss data 25ms to pull
+	- Write data to directory in PM - Grab bytes from there 14ms to read
+	- Not missing samples 1/14 Hz but not real-time: varying time delays
+- Speedgoat
+	- Serial com to radio to PM and back
+	- 12.6 ms exactly
+- Together
+	- Alternate read and write: 50ms each, event happening every 25 ms
+	- Can't instantly read values using new stim params (will just read old ones)
+	- send command + read previous response : acc read, stim write, stim read, acc write
+
+Handles between windows to pass data in MATLAB
+APL vs MSL MATLAB: 2020b release 2 and release 7
+- Diff in serial blocks - legacy serial blocks in MATLAB
+Don't use explicit save command
+Radio com: address, freq, timing + timout settings 
+- Radio interference: control tower, phone 
+
+Docs on Triolo_Lab/Database/Lab_equip_doc/NNP instal + ref
+
 # Eric Heidorn
 
 Trail-making test: random map of numbers / letters

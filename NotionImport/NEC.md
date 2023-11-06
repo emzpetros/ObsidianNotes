@@ -19,6 +19,37 @@ Fav video games and why: you are ___ trying to blank ____ but
 - Hollow Knight : exploration
 - Papers please
 
+# NEC Practice Lindsey
+
+General Notes
+- Cuff electrodes are just a tool, we're not investigating them only 
+
+4 - Larger location map image
+6 - functional ch + select channels a bit redundant
+	Different wording for second bullet?
+7 - Maybe have a picture of the ASCU app showing the three areas
+8 - emphasize the questions, boxes or smth
+	Structure: go one by one?
+	Image?
+11 - nice image
+12 - busy slide 
+	Cathodic first?
+15 - show one first then fade in others
+	Citation for expected linear increase
+17 - make numbers same color as the lines
+18 - box or smth to emphasize comparability 
+20 - put torque on the right
+
+13 mins
+
+26 - picture?
+27 - sig bars
+30 - distinct regions, ASCU pic?
+
+Order: is it weird to focus on the "old" intensity ratings after saying it's not sufficient 
+
+Overall agenda would help flow
+
 # Ben 
 Sensory vs motor selectivity 
 

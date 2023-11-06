@@ -8,180 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "afcbd8b29640c83c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Experiments/ColorWordMatch/ColorWordMatch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8ad58ccd4236a78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Webinairs  Seminars.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fe3c25a613b3a04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Experiments/Upright Perception Exp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ca17887e5206d3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Classes/ANAT414.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2099d4abdf5b7cc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zotero/vanvelzenPhysicalCapacityWalking2006.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c47d4ff78b2341ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Committee Meetings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff40043b5937cd2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zotero/rosenblattActiveDorsiflexingProstheses2014.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1797dd2c5a40a4d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zotero/alfuthEffectsChangesPlantar2012.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "418857242775314a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zotero/steinbergFallIncidenceAssociated2019.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a57ee4b948686a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zotero/hunterCognitionPredictsMobility2019.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96d3494dbea3a8d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature Thoughts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "883819a1f77b15d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Research/Chronic Stability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99883fa3ad562c65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zotero/bordaAutomatedCalibrationSomatosensory2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4907588079fadb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zotero/bordaAutomatedCalibrationSomatosensory2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffae58d572606815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASCU.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,9 +30,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c235413beffcad13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Committee Meetings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42f0ae52c139fb02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NotionImport/NEC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7897b666b1625579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/MSL Meetings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80ce5e121bc05001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Chronic Stability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0ceae4922e687bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Committee Meetings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -268,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASCU.md",
+                "file": "Research/Committee Meetings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASCU.md",
+                "file": "Research/Committee Meetings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASCU.md"
+                "file": "Research/Committee Meetings.md"
               }
             }
           },
@@ -339,42 +231,42 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5e5a25c47619ce84",
+  "active": "c0ceae4922e687bc",
   "lastOpenFiles": [
-    "Research/Equipment.md",
-    "ASCU.md",
+    "Research/Chronic Stability.md",
+    "Research/Committee Meetings.md",
+    "NotionImport/PhD Program.md",
+    "Research/MSL Meetings.md",
+    "NotionImport/NEC.md",
     "Zotero/bordaAutomatedCalibrationSomatosensory2023.md",
+    "ASCU.md",
+    "Literature Thoughts.md",
+    "Zotero/hunterCognitionPredictsMobility2019.md",
+    "Zotero/steinbergFallIncidenceAssociated2019.md",
+    "Zotero/alfuthEffectsChangesPlantar2012.md",
+    "Zotero/rosenblattActiveDorsiflexingProstheses2014.md",
+    "Research/Experiments/ColorWordMatch/ColorWordMatch.md",
+    "Research/Webinairs  Seminars.md",
+    "Research/Experiments/Upright Perception Exp.md",
+    "School/Classes/ANAT414.md",
+    "Zotero/vanvelzenPhysicalCapacityWalking2006.md",
+    "Research/Equipment.md",
     "224997uparrowb.md",
     "Research/Images/Pasted image 20231030111330.png",
     "Research/Images",
     "Research/Projects/3D Thresholding.md",
     "Research/Experiments/VR Cycling.md",
     "NotionImport/Journal Club.md",
-    "Research/Chronic Stability.md",
     "Research/Experiments/Exp Ideas.md",
-    "Literature Thoughts.md",
-    "Research/Webinairs  Seminars.md",
     "Zotero/roepkeLongitudinalStudySocial2017.md",
     "Zotero/hunterRiskFactorsFalls2017.md",
     "Zotero/coffeyCognitiveFunctioningPersons2012.md",
-    "Zotero/cieslakAssociationChangesSubjective2020.md",
-    "Zotero/chandrasekaranSensoryRestorationEpidural2020.md",
-    "Writing Notes.md",
-    "Zotero/laskinSpinalCordStimulation2022.md",
     "laskinSpinalCordStimulation2022/Images/image-6-x305-y52.png",
     "laskinSpinalCordStimulation2022/Images",
     "laskinSpinalCordStimulation2022",
-    "Zotero/yamadaPredictingProbabilityFalls2010.md",
-    "Zotero/vanvelzenPhysicalCapacityWalking2006.md",
-    "Zotero/steinbergFallIncidenceAssociated2019.md",
-    "Zotero/petriniEnhancingFunctionalAbilities2019.md",
-    "Zotero/liangSystematicReviewComputational2023.md",
-    "Zotero/manzReviewUserNeeds2022.md",
     "liangSystematicReviewComputational2023/Images/image-4-x63-y105.png",
     "liangSystematicReviewComputational2023/Images",
     "liangSystematicReviewComputational2023",
-    "@hunterRiskFactorsFalls2017.md",
-    "Zotero/millerkoopMicrosoftHoloLensProvides2022.md",
     "albertsDigitizingTherapeuticDevelopment2022/Images/image-3-x51-y204.png",
     "albertsDigitizingTherapeuticDevelopment2022/Images",
     "albertsDigitizingTherapeuticDevelopment2022",
