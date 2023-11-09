@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASCU.md",
+                "file": "Research/Resources/ASCU Application Specific Control Unit.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,31 +68,55 @@
             }
           },
           {
-            "id": "80ce5e121bc05001",
+            "id": "95cd52f129b8f509",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Chronic Stability.md",
+                "file": "Research/HC  RT Meetings.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c0ceae4922e687bc",
+            "id": "6d01b7536afc85eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Committee Meetings.md",
+                "file": "3MT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccfcbf5cef2d5c41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Upright Perception Lit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76414b47067bd9fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/VR Thoughts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -160,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Committee Meetings.md",
+                "file": "Research/VR Thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Committee Meetings.md",
+                "file": "Research/VR Thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Committee Meetings.md"
+                "file": "Research/VR Thoughts.md"
               }
             }
           },
@@ -231,36 +255,36 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c0ceae4922e687bc",
+  "active": "76414b47067bd9fe",
   "lastOpenFiles": [
+    "Research/Resources/Tools.md",
+    "Research/Experiments/Dual Task/Dual Task.md",
+    "Research/Experiments/Dual Task/Dual Task Treadmill Protocol.md",
+    "NotionImport/Journal Club.md",
+    "Upright Perception Lit.md",
+    "Zotero/ardicSubjectiveVisualVertical2023.md",
+    "Research/Experiments/Upright Perception Exp.md",
+    "Research/HC  RT Meetings.md",
+    "Research/VR Thoughts.md",
+    "Research/Resources/ASCU Application Specific Control Unit.md",
+    "3MT.md",
     "Research/Chronic Stability.md",
+    "Research/MSL Meetings.md",
+    "DT with Amputees.md",
+    "224997uparrowb.md",
+    "Zotero/Literature Thoughts.md",
     "Research/Committee Meetings.md",
     "NotionImport/PhD Program.md",
-    "Research/MSL Meetings.md",
     "NotionImport/NEC.md",
     "Zotero/bordaAutomatedCalibrationSomatosensory2023.md",
-    "ASCU.md",
-    "Literature Thoughts.md",
     "Zotero/hunterCognitionPredictsMobility2019.md",
     "Zotero/steinbergFallIncidenceAssociated2019.md",
     "Zotero/alfuthEffectsChangesPlantar2012.md",
     "Zotero/rosenblattActiveDorsiflexingProstheses2014.md",
     "Research/Experiments/ColorWordMatch/ColorWordMatch.md",
     "Research/Webinairs  Seminars.md",
-    "Research/Experiments/Upright Perception Exp.md",
-    "School/Classes/ANAT414.md",
-    "Zotero/vanvelzenPhysicalCapacityWalking2006.md",
-    "Research/Equipment.md",
-    "224997uparrowb.md",
     "Research/Images/Pasted image 20231030111330.png",
     "Research/Images",
-    "Research/Projects/3D Thresholding.md",
-    "Research/Experiments/VR Cycling.md",
-    "NotionImport/Journal Club.md",
-    "Research/Experiments/Exp Ideas.md",
-    "Zotero/roepkeLongitudinalStudySocial2017.md",
-    "Zotero/hunterRiskFactorsFalls2017.md",
-    "Zotero/coffeyCognitiveFunctioningPersons2012.md",
     "laskinSpinalCordStimulation2022/Images/image-6-x305-y52.png",
     "laskinSpinalCordStimulation2022/Images",
     "laskinSpinalCordStimulation2022",

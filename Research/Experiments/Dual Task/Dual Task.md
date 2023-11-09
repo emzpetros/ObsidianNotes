@@ -6,6 +6,27 @@ Priority: High
 ---
 [[Dual Task Treadmill Protocol]]
 
+# Able-Bodied Description
+
+Able-bodied participants will complete two 1.5 hour sessions in the APL.  The experiment consists of walking on a self-paced treadmill while simultaneously responding to a Stroop task presented on a screen in front of the treadmill.
+
+The self-paced treadmill works by tracking the user's position moving forward and backwards on the treadmill.  The speed of the belts are adjusted to keep the participant centered and allows them to change speed at will.  There will be time provided to adjust to walking on the treadmill both normally and in self-paced mode. 
+
+The stroop test consists of a word such as "Red" presented in an incongruent color such as blue.  The participant is asked to detect the color of the word instead of it's meaning.
+
+Participants will have Vicon markers placed on joint positions to record the dynamics of gait.  This includes a headband for head markers.  An audio recording of their responses to the stroop test will also be collected to be analyzed offline.
+
+Data to be collected:
+- Response time
+- Response accuracy
+- Vicon marker and force plate data to characterize gait
+
+Exclusion Criteria
+- All criteria included in amputee study specifically gait/balance impairments and cognitive impairments 
+- Color-blindness 
+
+
+
 [[D-Flow]]
 
 [[Vicon]]

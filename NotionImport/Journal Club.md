@@ -1,3 +1,57 @@
+
+
+# 
+
+Walk on walkway over obstacles
+
+Margin of stability: COM while walking and project it on a point, prediction of how much COM will move on next stride
+- Take dif w/ BoS aka Step Length
+- How much will CoM exceed BoS in next stride
+
+Synergy Index: how varied is the data
+- Each point is one step
+- Red is no obstacle: consistent steps
+- Purple: obstacles, more spread out 
+
+ANOVA: GLM w/ random effect of participants
+- Each step against each other within obstacle crossing
+- Same step between tasks
+
+Results
+- Test + step interaction: stepping strat changes based on obstacle presence
+- Most sig for crossing
+- All vars had across-step changes for obstacle
+- Synergy index > 0 (supports H2)
+
+Knocking over trials not included
+
+MoS_AP
+- Up to four foot placements before no difference
+- Approaching obstacle, increase MOS
+- Lowered step after landing foot 
+
+Lower synergy @ obstructed step 
+- Higher motor cost implied 
+- Higher variability at obstructed step
+
+Discussion
+- MoS changes prior to obstacle
+- MoS controlled for both tasks: both passive + active 
+	- More variable for crossing step 
+- Hard to interpret 
+
+Summary: MoS to assess stability during gait while walking over obstacle.  Synergy to assess effort / control of gait.  Found gait is controlled.  Sometimes sacrifice energy efficiency to be more stable.
+
+Synergy: overall level of control, can't separate active + passive
+- Lower means higher level of effort / energy cost into control 
+- More an efficiency control 
+- Breathing can be variable 
+- Maybe EMG measurement 
+Measuring spread of data, more than just averages
+Could be useful to quantify variability of subjs
+- Maybe SNP improves efficient control 
+
+
 # [[bordaAutomatedCalibrationSomatosensory2023]]
 # Toward the Development of user-centered neurointegrated lower limb porstheses
 

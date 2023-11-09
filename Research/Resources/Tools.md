@@ -27,3 +27,6 @@ Vicon Unity Integration for HMD: [https://www.vicon.com/software/third-party/uni
 R Reference
 
 - [https://bookdown.org/yihui/rmarkdown/pdf-document.html](https://bookdown.org/yihui/rmarkdown/pdf-document.html)
+
+
+Hand interactions :https://assetstore.unity.com/packages/add-ons/octo-pro-vr-hand-interaction-framework-213972 

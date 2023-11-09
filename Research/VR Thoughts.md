@@ -60,3 +60,37 @@ Locomotor skill transfer VR -> Real Life
 - Refs on different VR tasks including obstacle avoidance 
 - Task: minimize foot clearance crossing an obstacle 
 - Oculus Rift 2
+
+# International VR Healthcare Association 
+
+Many appear to be using magic leap?
+
+MyndVRx - ADLs
+PsyTech - curiosity 
+
+
+
+|Company|Hardware|Notes|
+|---|---|---|
+|Verti|Quest, Vive|Learning platform, interactive 360 videos, AI avatars  |
+|Cleanbox|Headsets, earphones, controllers|UVC LED decontamination |
+|MyndVRx|Custom VR headset?|ADLs, brain games, cycling games, 360 entertainment for older adults|
+|PeriopSim|VIVE or WMR VR sys; desktop + tablet|OR training |
+|vitalstart|Custom headset, low cost emphasis|Prevent and treat Perinatal Mood and Anxiety Disorders, therapy, guided relaxation|
+|PsyTech|Everything: Pico, HTC, quest|VR micro training for mental health: PTSD, anxiety, OCD, anger management|
+|VR Pateints|Quest|Nursing + EMS training|
+|Bludove.ai|Custom headset?|Some kind of patient comfort thing? 360 videos?|
+|Visit |HTC Vive|concussion diagnosis |
+|Lumis|Custom headset + smart peripherals|AR learning environment for healthcare|
+|Spectre XR|software|OctoXR hand interactions toolkit|
+|CrossComm|software company|building software for companies (some medical some not)|
+|Healthy Simulation||Resource website|
+|3Lb XR|software|application development for other companies|
+
+7 to 9 goals for XR: made it to 3 of them
+Microsoft merging, all the software
+Azure military contracts
+
+Vive - self tracking tracker
+
+MyndVR 9/10 adults reported less pain, VA work 

@@ -1,5 +1,78 @@
 
 
+# 11/13/23
+From last meeting
+- R21 has to be done by end of Summer term after passing quals - if not strike + 3 month extension 
+- Committee Meetings every semester - Spring before commencement 
+# 11/6/2023
+Agenda
+- Able bodied recruitment 
+- Committee meeting thoughts
+	- Hypothesis + aims 
+	- What is the question
+	- Model appropriateness 
+	- ***Lit review of DT with amputees***
+		- Petrini Cog Load 
+		- Have a slide on it / know the background
+		- Why are results different, task dif 
+- Upright perception exp
+- Abstract Ron sent 
+- Chronic stability draft 
+- Dates out for thanksgiving / Christmas 
+- Classes for next sem
+	- Computer vision: get syllabus 
+	- The goal of computer vision is to create visual systems that recognize objects and recover structures in complex 3D scenes. This course emphasizes both the science behind our understanding of the fundamental problems in vision and the engineering that develops mathematical models and inference algorithms to solve these problems. Specific topics include feature detection, matching, and classification; visual representations and dimensionality reduction; motion detection and optical flow; image segmentation; depth perception, multi-view geometry, and 3D reconstruction; shape and surface perception; visual scene analysis and object recognition. Offered as CSDS 465 and ECSE 465.
+	- Computational neuroscience - not doing modeling 
+	- 453 
+
+Chronic Stability
+- Post implant images 
+- Put together figs
+
+Upright Perception 
+- Mini presentation with moving forward ideas : schedule with Amir + Aasef
+	- Make sure all on same page esp Amir
+	- 10-15
+	- Email HC, AK, AS to schedule time to meet 
+		- Share results, thinking of moving on, brainstorm on future directions
+		- When2meet 
+- Need to wait for IRB approval anyway 
+
+Three M Thesis - Nov 17, ask Suzhou 
+
+DT Paper
+- Can hold the fixed speed exp for future paper
+- Able-bodied data - unique methodology 
+	- Dif from previously reported tasks
+	- See if automaticity holds up
+- Agree on kinematic metrics
+	- Methodology figure
+	- Speed figure w/ baseline
+	- RT + accuracy 
+	- Was walking more stable? or not more unstable
+		- not becoming more unstable with cognitive load increasing 
+	- Able bodied 
+		- Peggy Skelly, Musa Audu
+		- Talk to Aarika + Jessica : age matched participants 
+		- Finding people will take time 
+		- 2 sessions manageable 
+- Better ways to visualize data for all subjects on one plot
+
+Walking becomes automatic, does it increase gait stability ???
+- Maybe it does maybe it doesn't 
+- Link it to something 
+
+***Need last piece of the story***
+
+- [ ] reach out to Jessica, musa, peggy, preferred age matched male 
+- Age matched, male
+- Reconsent Peggy + Musa
+- 2 sessions each : 1-1.5hr
+
+Will have till end of summer to defend R21??
+- Committee deadline 
+- Ask Hannah about R21 deadline 
+- Can next semester's be in the summer ?  
 
 # 10/11/23 Pre NEC
 Some metric of gait changing with task difficulty  
