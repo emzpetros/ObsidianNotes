@@ -2,6 +2,11 @@
 
 # 
 
+## Notes
+Waterloo Footedness Questionnaire for leg dominance 
+
+## Discussion
+
 Walk on walkway over obstacles
 
 Margin of stability: COM while walking and project it on a point, prediction of how much COM will move on next stride

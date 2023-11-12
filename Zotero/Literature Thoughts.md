@@ -116,9 +116,27 @@ To our knowledge, only a limited number of dual-task studies in persons with LLA
 [[laskinSpinalCordStimulation2022]]
 - Primarily motor control, sensory not even mentioned
 - Adverse events present, not well documented 
-- 
+
+
+[[wahnCanLimitationsVisuospatial2017]]
+- Are there separate attentional resource pools for different sensory modalities or are they shared
+- Seems to depend on the type of attentional processing: spatial or object based
+- Redundant sensory information as method to reduce cognitive load -> multisensory integration (see paper for more)
+
+[[mirmoezziStabilityWalkingAffected2019]]
+- Walking at non preferred worsened cognitive load
+- Metric to combine accuracy and speed 
+
 # To Look Into
 - Direct and indirect locomotor pathways
 - Dorsolateral prefrontal cortex
 	- Sensory input, is it somatosensory??
 - Spinal stim
+
+# To Find
+- Measuring cardiopulmonary parameters during dual-task while walking
+# Areas
+- Older adults
+- Younger adults
+- Effect of gait speed + task
+- 

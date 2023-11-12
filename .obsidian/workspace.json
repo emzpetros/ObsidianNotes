@@ -109,14 +109,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/VR Thoughts.md",
+                "file": "NotionImport/Journal Club.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20820469ba35877e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zotero/Literature Thoughts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -167,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ce3ade9153ee2e84",
@@ -184,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/VR Thoughts.md",
+                "file": "3MT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/VR Thoughts.md",
+                "file": "3MT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/VR Thoughts.md"
+                "file": "3MT.md"
               }
             }
           },
@@ -255,34 +266,34 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "76414b47067bd9fe",
+  "active": "6d01b7536afc85eb",
   "lastOpenFiles": [
+    "Zotero/Literature Thoughts.md",
+    "Zotero/mirmoezziStabilityWalkingAffected2019.md",
+    "Zotero/wahnCanLimitationsVisuospatial2017.md",
+    "3MT.md",
+    "NotionImport/Journal Club.md",
+    "NotionImport/Literature Notes.md",
+    "Upright Perception Lit.md",
+    "Zotero/dienerSignificanceProprioceptionPostural1984.md",
+    "Zotero/kavounoudiasFootSoleAnkle2001.md",
+    "Zotero/anastasopoulosRoleSomatosensoryInput1999.md",
+    "Research/VR Thoughts.md",
     "Research/Resources/Tools.md",
     "Research/Experiments/Dual Task/Dual Task.md",
     "Research/Experiments/Dual Task/Dual Task Treadmill Protocol.md",
-    "NotionImport/Journal Club.md",
-    "Upright Perception Lit.md",
     "Zotero/ardicSubjectiveVisualVertical2023.md",
     "Research/Experiments/Upright Perception Exp.md",
     "Research/HC  RT Meetings.md",
-    "Research/VR Thoughts.md",
     "Research/Resources/ASCU Application Specific Control Unit.md",
-    "3MT.md",
     "Research/Chronic Stability.md",
     "Research/MSL Meetings.md",
     "DT with Amputees.md",
     "224997uparrowb.md",
-    "Zotero/Literature Thoughts.md",
     "Research/Committee Meetings.md",
     "NotionImport/PhD Program.md",
     "NotionImport/NEC.md",
     "Zotero/bordaAutomatedCalibrationSomatosensory2023.md",
-    "Zotero/hunterCognitionPredictsMobility2019.md",
-    "Zotero/steinbergFallIncidenceAssociated2019.md",
-    "Zotero/alfuthEffectsChangesPlantar2012.md",
-    "Zotero/rosenblattActiveDorsiflexingProstheses2014.md",
-    "Research/Experiments/ColorWordMatch/ColorWordMatch.md",
-    "Research/Webinairs  Seminars.md",
     "Research/Images/Pasted image 20231030111330.png",
     "Research/Images",
     "laskinSpinalCordStimulation2022/Images/image-6-x305-y52.png",
