@@ -1,3 +1,92 @@
+
+# Dr. Jorge Candiotti
+User's perception towards robotic assistive technology: A mixed-method approach 
+
+HERL, participatory action design
+
+Human Engineering Research Lab: improve mobility + fxn
+- Wheel chairs, smart devices, human machine interfaces, assistive robotic + intelligent systems
+- MEbot: combat tipping in real world wheelchairs
+	- Curbs
+	- Protocol: 20 users, manual vs automated 
+	- NASA-TLX, SUS usability, completion time
+		- NASA-TLX: workload for pilots, 0-100, < 40 for low task demand
+		- Rate + then note which domain has more importance
+		- Takes a long time to perform
+		- Score threshold depends on task + target group
+Participatory action design + engin: stakeholders involved at all steps
+
+Powered Personal Transfer Sys
+- ISO standards, durability 
+- NASA
+- Positioning of chair, prep for transfer, transfer to bed, transfer to chair
+- High mental - learning, 
+- Qualitative questionaire
+	- Consistent, easy + safe, fulfills the purpose to reduce effort
+	- Cost concerns/insurace, space, no spasticity support, needs training
+- No metrics for these improvements in this study 
+
+Assessment Pr cons
+- Efficient, demand quantifier, validated
+- Subjective, lack of benchmarks to interpret scores : need to to compare with gold standard intervention, associate with user interview responses 
+
+Assistive Robot Manipulators
+- Upper mobility challenges
+- Long operation times = high cognitive load currently
+- Test manual joystick vs autonomous control for users
+- Task dispensing popcorn
+- NASA-TLX, SUS, completion time, mode swith, semi-structure interview
+
+SUS: for web-based applications 
+- 5 point Likert scale, 10 items
+- Min 69 is accetable
+- No difference in manual, automatic usability scale despite time/number of buttons less for automatic :
+- How much control do you want??
+- Majority prefer manual, open to collaboratie option with robot
+
+Tools assessment
+- Time efficient
+- small sample size, not great for long-term
+- Limited study time: cognitive decline to answer questionnaires
+	- Compensated with human factors to evaluate workload
+- Auot was faster and had less frustration, mental effort
+- SUS: 75 MEBot , own interface 96.5: more used to it
+- Good size, intuitive but still complex and requires mental demand, feedback on task start + end would help; touch screen dexerity can be a challenge (have joystick or voice options)
+
+MEBot in everyday environments
+- Thematic analysis
+- Tasks: bathroom, 10 degree slope, curb, soft material
+- Tree root, pothole, brick road, curb cut
+- Measures: ease of use SUS, satisfaction QUEST, discomfort TAWC; seat angle changes + vibration for "quantitative" outcomes
+	- QUEST satisfaction for assistive tech , Likert
+	- Ceiling effect with tool
+- Tasks based on wheelchair training tasks
+- Questionaires don't capture everything, videos show difficulty still
+	- Larger foot print + high seat height of mebot 
+- TAWC: seating discomfort for wheelchair users specifically
+	- no sig difference
+	- Typically for use after 4 hours 
+- Thematic analysis reduces redundancy 
+
+Tools
+- Battery test takes a while, repetitive questions betwixt surveys
+- Ceiling effect might hide differences, complement with performance metrics
+
+Mixed method approach useful still
+- Combine with semi structured interviews + quantitative metrics (human factors)
+- Must define the domain , may need large sample size
+
+Questions
+- For disabilites - QUEST; NASA/SUS for different applications 
+- Plan to make own scale? Needs validation, sensitivity analysis etc
+- Were the tasks challenging enough to show difference between MEBot and standard?
+	- Limitations on own chair
+- Might be better to do both scenarios and then rate them to represent the relative differences 
+- Are you assessing user effort?  Understanding which is preferred, which is more confident etc
+	- NASA-TLX or QUEST only for curve climbing 
+	- SUS is our interface as good as their own 
+PIADS also for assistive technology 
+
 # Mike Miller
 Acquiring accelerometer data + setting stim params with implanted Network Neural Prosthesis
 - Read acc, write stim

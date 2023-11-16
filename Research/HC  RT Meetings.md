@@ -1,9 +1,96 @@
+# Website Stuff
+https://case.edu/wcms/training-support/drupal-training-and-drop-sessions 
+
+To add new people, email UTech
+
+engineering.case.edu/users
+
+Edit tab
+Page content: 
+- Edit at the bottom 
+- Can't just copy paste images ; need to upload the image , just hit next, next, save 
+- Add media - can be PDFs too 
+- Links need to be added too 
+Collapse to save and save again 
+
+Source:
+ - Full HTMl, CSS editing
+
+Add content: new tabs
+- only subsite, news, in the news 
+- Have to email utech to get access 
+- Can create news + in the news articles 
+	- Add subsite - rellinc
+
+Events
+
+No drafts
+- Could save the link + not link it to the subsite 
+
+Set publishing settings to publish
+
+Some edits make take up to 24 hrs
+
+Things to Follow Up
+- Link from APT subpage
+- We can't find ourselves on google or via the case page?
+- Neural engineering : https://engineering.case.edu/biomedical-engineering/research/neural-engineering-and-rehabilitation 
 
 
 # 11/13/23
 From last meeting
 - R21 has to be done by end of Summer term after passing quals - if not strike + 3 month extension 
 - Committee Meetings every semester - Spring before commencement 
+
+Agenda
+- Classes
+- 3MT
+- Able bodied data collection
+
+
+6 engineering
+- 465 CV 3
+- 427 Movement Mechs + Rehab 3
+2 any elective
+- 472 BioDesign 3
+4 breadth 
+- 440 Translational Research for BME 3
+- IBMS 500 1
+- 450 BME Entrepreneurship + seminars
+
+Paper
+- 
+
+
+To Do
+- AS + AK: availability 
+- Website: drafting website edits 
+-
+
+Accuracy vs RT trade off
+- Speed + accuracy at same time
+	- Going to attend to stroop more than feet
+- As many as accuracy as you can, max response time
+	- Going over time counted as wrong 
+
+Gait metrics
+- Step phase : start of gait cycle + other HS happening, scale by 360
+	- Fit to guasian curve 
+	- Calculate skewness
+- Between the legs, asymmetry 
+- Compensate for high variability 
+
+
+Upright Perception 
+- Maybe for Srikanth !
+- Amputation had an effect on upright perception 
+
+Develop DT paper timeline
+- Able bodied data collection 
+- Consider alternative data analysis 
+
+Able bodied : move ahead
+
 # 11/6/2023
 Agenda
 - Able bodied recruitment 

@@ -56,3 +56,21 @@ All tend to use instrumented walkways
 
 - Some differences found even with healthy older adults
 - Good citations for using dual task results to predict falls
+
+
+# AS 11/13 DT
+
+Residual sensation: characterization
+- Characterization 
+- Focus on it's intensity as it wears down
+- Focus somewhere else 
+
+Scheduled amount of time to check in 
+
+Perturbations on Egg
+- Postural stability + DT 
+
+Stairs + DT
+- LE02 maybe performing poorly while talking 
+- Does sensation improve it 
+

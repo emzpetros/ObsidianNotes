@@ -146,3 +146,20 @@ The task of a sensory system is to collect, process, store, and transmit informa
 **ECSE 414. Wireless Communications. 3 Units.**
 
 This course introduces the fundamentals of wireless communications including backgrounds, important concepts, and cutting-edge technologies. In particular, the course focuses on interesting and important topics in wireless communications, such as (but not limited to): Overview of wireless communication networks and protocols, the cellular concept, system design fundamentals, brief introduction to wireless physical layer fundamentals, multiple access control protocols for wireless systems, wireless networking (routing/rerouting, wireless TCP/IP), mobility management, call admission control and resource allocation, revolution/evolution towards future generation wireless networks, overview of wireless mesh networks, mobile ad hoc networks and wireless sensor networks, and wireless security (optional). Offered as [**ECSE 316**](https://bulletin.case.edu/search/?P=ECSE%20316) and [**ECSE 414**](https://bulletin.case.edu/search/?P=ECSE%20414). Prereq: Graduate student or [**ECSE 351**](https://bulletin.case.edu/search/?P=ECSE%20351) with a C or better.
+
+Title: BioDesign 3 credits
+- **Description:** Medical device innovations that would have been considered science fiction a decade ago are already producing new standards of patient care. Innovation leading to lower cost of care, minimally invasive procedures and shorter recovery times is equally important to healthcare business leaders, educators, clinicians, and policy-makers. Innovation is a driver of regional economic development and wealth creation in organizational units ranging in size from the start-up to the Fortune 500 companies. In a broader context, the pace of translational research leading to product and service innovation is highly interdisciplinary, thus, new products and services result from team efforts, marked by a systematic, structured approach to bringing new medical technologies to market and impacting patient care. In this course we examine medical technology innovations in the context of (A) addressing unmet clinical needs, (B) the process of inventing new medical devices and instruments, and (C) subsequent implementation of these advances in patient care. In short, the student learns the process of "identify, invent, implement" in the field of BioDesign.Offered as EBME 472, IIME 472 and SYBB 472
+
+IBMS 500
+The goal of this course is to provide graduate students with an opportunity to think through their professional ethical commitments before they are tested, on the basis of the scientific community's accumulated experience with the issues. Students will be brought up to date on the current state of professional policy and federal regulation in this area, and, through case studies, will discuss practical strategies for preventing and resolving ethical problems in their own work. The course is designed to meet the requirements for "instruction about responsible conduct in research" for BSTP and MSTP students supported through NIH/ADAMHA institutional training grant programs at Case. Attendance is required
+# S24
+6 engineering
+- 465 CV 3 
+- 427 Movement Mechs + Rehab 3
+2 any elective
+- 472 BioDesign 3
+4 breadth 
+- 440 Translational Research for BME 3
+- IBMS 500 1
+- 450 BME Entrepreneurship + seminars
+

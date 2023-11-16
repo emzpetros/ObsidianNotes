@@ -127,6 +127,18 @@ To our knowledge, only a limited number of dual-task studies in persons with LLA
 - Walking at non preferred worsened cognitive load
 - Metric to combine accuracy and speed 
 
+
+Speed + DT
+
+[[nascimbeniGaitAttentionalLoad2015]]
+- Slower speeds linked with less automaticity + higher cortical demands
+- Little sig in gait params
+- Calculate DTCost values for metrics to compare split between cognitive + motor focus
+- Did not investigate *faster* speeds
+
+- Need for imaging: same behavioral level of performance can be accomplished with differing levels of mental load!
+- 
+
 # To Look Into
 - Direct and indirect locomotor pathways
 - Dorsolateral prefrontal cortex

@@ -101,3 +101,20 @@ CounterClockwise to raise wheels
 45 inc
 
 ![[image-1691603122791.jpg5584678927006931219.jpg]]
+
+# Refs from Musa
+1. R:\Triolo_Lab\Database\Projects\Other\Posters_and_Presentations\IROS 2023 Interesting Abstracts\
+
+This contains abstracts and corresponding video presentations at the IROS Conference that I found interesting. A summary is in the attached file.
+
+2. R:\Triolo_Lab\Database\Tutorials\OpenSim and Clusters
+
+        This contains videos of tutorials that I have given to students/post-docs on how to use OpenSim and how to use the various clusters available to us at Case and OSU.
+
+
+
+# ASCU App
+ScreenSetLev: initialization for the percentages
+
+Could not initialize class org.codehaus.groovy.reflection.ReflectionCache:
+Reset distributionUrl=https\://services.gradle.org/distributions/gradle-6.3-all.zip in gradle-wrapper.properties for JDK 14 support 

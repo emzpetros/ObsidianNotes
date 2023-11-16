@@ -8,66 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "883819a1f77b15d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Chronic Stability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e5a25c47619ce84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Resources/ASCU Application Specific Control Unit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c235413beffcad13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Committee Meetings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42f0ae52c139fb02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NotionImport/NEC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7897b666b1625579",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/MSL Meetings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "95cd52f129b8f509",
             "type": "leaf",
             "state": {
@@ -126,9 +66,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c93555a0d605f829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Experiments/Exp Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6dae2906fdfe3a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/HC  RT Meetings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6536dd581b8b6523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Classes/ANAT414.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -179,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ce3ade9153ee2e84",
@@ -195,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3MT.md",
+                "file": "School/Classes/ANAT414.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3MT.md",
+                "file": "School/Classes/ANAT414.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3MT.md"
+                "file": "School/Classes/ANAT414.md"
               }
             }
           },
@@ -266,12 +243,21 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6d01b7536afc85eb",
+  "active": "6536dd581b8b6523",
   "lastOpenFiles": [
+    "Research/HC  RT Meetings.md",
+    "School/Classes/ANAT414.md",
+    "Research/Resources/ASCU Application Specific Control Unit.md",
+    "Research/Equipment.md",
+    "3MT.md",
+    "ASCU.md",
+    "Research/MSL Meetings.md",
+    "Research/Experiments/Exp Ideas.md",
+    "NotionImport/PhD Program.md",
     "Zotero/Literature Thoughts.md",
+    "Zotero/nascimbeniGaitAttentionalLoad2015.md",
     "Zotero/mirmoezziStabilityWalkingAffected2019.md",
     "Zotero/wahnCanLimitationsVisuospatial2017.md",
-    "3MT.md",
     "NotionImport/Journal Club.md",
     "NotionImport/Literature Notes.md",
     "Upright Perception Lit.md",
@@ -284,16 +270,7 @@
     "Research/Experiments/Dual Task/Dual Task Treadmill Protocol.md",
     "Zotero/ardicSubjectiveVisualVertical2023.md",
     "Research/Experiments/Upright Perception Exp.md",
-    "Research/HC  RT Meetings.md",
-    "Research/Resources/ASCU Application Specific Control Unit.md",
     "Research/Chronic Stability.md",
-    "Research/MSL Meetings.md",
-    "DT with Amputees.md",
-    "224997uparrowb.md",
-    "Research/Committee Meetings.md",
-    "NotionImport/PhD Program.md",
-    "NotionImport/NEC.md",
-    "Zotero/bordaAutomatedCalibrationSomatosensory2023.md",
     "Research/Images/Pasted image 20231030111330.png",
     "Research/Images",
     "laskinSpinalCordStimulation2022/Images/image-6-x305-y52.png",
