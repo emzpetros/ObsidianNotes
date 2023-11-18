@@ -19,6 +19,93 @@ Fav video games and why: you are ___ trying to blank ____ but
 - Hollow Knight : exploration
 - Papers please
 
+# NEC **Speaker: Dr. Ulrich G. Hofmann**
+
+[**Freiburg Institute for Advanced Studies**](https://www.frias.uni-freiburg.de/en)
+
+  
+
+**Title: "Thou shalt not implant! - on the path to a nanoBMI“** 
+
+**Abstract:** 
+
+In all of the brain-machine interfacing industry there is high hopes to have found the least detrimental implant type in flexible, metal or polymer based multisite-probes. Apparent proof is given by immunohistochemical micrographs reporting no abnormality. Unfortunately, this may be based on a Streetlight Fallacy ([https://en.wikipedia.org/wiki/Streetlight_effect](https://en.wikipedia.org/wiki/Streetlight_effect)) utilizing less than optimal scientific tools for an assessment. When introducing more recent molecular biology tools like transcriptomic analysis even flexible probes disappoint with respect to their benevolence on brain tissue [1]. A strong state of neuroinflammation is caused by these implants which doesn’t wear off over time and is even marked by oncogen activation. Very much to our surprise, part of this neuroinflammation can already be caused by the very procedure needed to insert probes into brain: The craniotomy itself! („Open up the brain and it will never look the same!“ neurosurgeons tend to say…) 
+
+Motivated by this, we try to pave new ways to avoid implanting macroscopic probes through the skull yet still maintaining deep brain stimulation benefits. To this end we learned to open the Blood-Brain-Barrier locally by mild hyperthermia at arbitrary locations throughout the brain [2] which would then allow to deploy nanoparticle actuators to any chosen spot. Locations throughout the brain are addressed contactless by the Field-Free Spot of a Magnetic Particle Imaging (MPI) device equipped with an additional Alternating Magnetic Field (AMF) heating coil - a truly Theranostic Device [3]. 
+
+I will present the state of this work in progress and the current limitations in local heating brought upon us by commercial nanoparticles.
+
+[1] Joseph, K., M. Kirsch, et al. (2021). "Transcriptional characterization of the glial response due to chronic neural implantation of flexible microprobes." Biomaterials 279: 121230DOI: 10.1016/j.biomaterials.2021.121230
+
+[2] Bär, S., O. Buchholz, et al.  (2023). "Thermal threshold for localized Blood-Brain-Barrier disruption."  arXiv-DOI: 10.48550/arXiv.2306.09214.
+
+[3] Buchholz, O., K. Sajjamark, et al.  (2023). "In situ theranostic platform uniting highly localized magnetic fluid hyperthermia, magnetic particle imaging, and thermometry in 3D." in press with  Theranostics ; arXiv -DOI: 10.48550/arXiv.2304.06554.
+
+
+Brain punishes implants 
+- Hard ones have strong response
+- Soft materials - hoping for less astroycte response
+- Seeing some bony structures with in situ assessment
+- Smaller probes too, neuron size
+Street light fallacy
+- H+E / H+C approach limits you 
+- Experimental workflow
+- Implant, Histochemistry AND nanopore sequencing
+	- Counting color of cats through a door flap, prone to errors but can do it multiple times with quantified error distribution 
+- C3: complement gene 
+	- First response, astrcyte response, poking holes in tihngs
+- Even flexible vs control has a lot of changed genes
+Can we modulate gene pathways?
+- Thinking coatings are not enough 
+- "early" genes still active after 18 weeks
+Surgery is elephant in the room
+- Opening up the brain - trepanation - not touching brain surface
+- Neuroinflammation present 
+Case studies
+- cancer developing after TBI decades later
+- Risk for DBS implants
+Synchron
+- Through blood vessels
+
+Schlett P UG
+- Drilling causes heat that impacts BBB
+- Local heating via laser also does it
+- How can we heat brain without fibers + implanted components
+	- Lasers + RF heat on the way down
+- Magnetic Particle Imaging 
+	- Magnetize iron oxide particles
+	- Over and over
+	- Particles max at in magnetization 
+Same magnetic fields
+- N + N: field lines deform and form a field free region 
+- near zero in the center region, virtual region to manipulate nano particles 
+Measuring magnetic induction of moving coils through brain
+- Detect changes in temperature 
+- Images, pictures + quantitative measures of temperature
+- No contact!
+40,000 pictures of 1 sec
+- Better time resolution than MR, fast measurement 
+- Heat mapping, not high resolution 
+Theranostics
+- Imaging systems - diagnostics
+- Need a therapy system - heating 
+- Add another coil just for magnetic heating 
+- Use heating to open blood brain barrier 
+Consider heating of particles in tumor
+- Nanoparticles gather in liver tumors already
+- Would normally have to inject into brain
+- Would want to inject nanoparticles in blood + open BBB locally to allow NP to transfer into brain + then heat the area
+Not getting it hot enough
+- Current nanoparticles do not produce enough local heat 
+Nano BMI
+- core-shell NP: different materials on inside and outside 
+- Magneto-electric coupling
+- Assuming you can get nano particles in the brain through BBB
+- Read magneti field as a result of eletrical activity in brain OR stimulate with small magnetic field
+
+Can you do it with US? yes but what does it do to ultrasound
+- Vessels can burst, cavitation happens in tissue
+
 # NEC Practice Lindsey
 
 General Notes

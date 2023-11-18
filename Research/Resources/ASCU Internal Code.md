@@ -91,8 +91,3 @@ Resolution above 2.0 is 0.2
 PercValueLookup
 - pA lookup fxn calculation produces decimals, current is a float
 - BUT tmp is defined as an int so the result is rounded down to nearest int
-
-
-Change PA output message - done
-Change the default percents to be all 0 default
-Add a warning message when you set PA to an invalid value above 2.0 

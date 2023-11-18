@@ -2,17 +2,44 @@
 # Speedgoat PC
 
 ![[PXL_20230113_171807677.jpg]]
-# ASCU
+# UECU
 
-[[ASCU]]
+## Multi-freq Stim
+A student recently asked about stimulating with different frequencies on two different channels on a single Perc board. He has been using the approach where only one schedule is used, but two stim frequencies are realized by interleaving 0s. The channels with the interleaved zeros then have a stim frequency that is half the frequency of the other channels. I believe some of you have used this method in the past and it is a valid approach. However, we decided to do some testing to determine if another method is possible that makes use of more than one schedule.  Based on our testing, this is possible. 
+
+I've attached an example model that makes use of 3 different variable schedules (IPIs of 35ms, 40ms, and 45ms). This model has Ts set at 35ms, but it also works if you set Ts at a different value such as 45ms.  Note that this makes use of 3 stim blocks (one for each schedule) with channels 0 - 3 using schedule 1, channels 4 - 7 using schedule 2, and channels 8 - 11 using schedule 3. Testing showed proper stimulation on all channels with this model. However, note that due to the nature of stimulating at different frequencies, the delays between channels on different schedules vary from cycle to cycle. For example a stim pulse on channel 0 (schedule 1) may occur very close to a stim pulse on channel 4 (schedule 2). Since the pulses are being generated on the same stim board, the pulses can not overlap, but they can occur less than 1ms apart.  The attached scope plot shows the closest that I saw two pulses occur during testing; 114us from one pulse ending to the next starting.  
+
+I also made a version of this 3 schedule model using asynchronous and synchronous schedules.  The asynchronous schedule version behaved the same as the attached variable schedule model. However, the synchronous schedule version only worked properly if Ts was set at 45ms (the largest IPI). Testing showed that if the Ts of a multiple synchronous schedule model is not set at the slowest IPI, then the stimulation output on channels using the slower schedule(s) has inconsistent/variable IPIs. Another requirement for using multiple synchronous schedules is that the IPIs need to have a common divisor. The 3 synchronous schedule model worked with IPIs of 35ms, 40ms, and 45ms since they are all divisible by 5. However, when I tried to run a multiple synchronous schedule model with IPIs of 41ms and 45ms, there was no stimulation output. Note that IPIs of 41ms and 45ms work fine when using multiple variable schedule models.  
+
+In summary, it looks like multiple schedules/stim blocks can be used for the UECU Perc Board as long as the variable pulse spacing between channels on different schedules is acceptable, but testing should be done to confirm that the stimulation output is what you expect. Note that this testing was done with the UECU in stand-alone mode, so it should probably be tested in Simulink RealTime/Speedgoat mode as well.
+
+I'm not sure if this method of multiple schedules will work with implant and surface board UECU models, but testing can be done if there is an interest.    
+
+Thanks.
+John
+
+
+# ASCU Application Specific Control Unit
+
+[[ASCU Internal Code]]
 
 - [ ] Fix multiple “ch” terminology: channels vs mapping indexes
-- [ ] Storing profiles
+- [x] Storing profiles
 	- [x] ASCU 9
-	- [ ] ASCU 19
+	- [x] ASCU 19
+- [x] Change PA output message 
+- [ ] Change the default percents to be all 0 default 
+- [x] Add a warning message when you set PA to an invalid value above 2.0  
 
 
+## ASCU App
+ScreenSetLev: initialization for the percentages
 
+Could not initialize class org.codehaus.groovy.reflection.ReflectionCache:
+Reset distributionUrl=https\://services.gradle.org/distributions/gradle-6.3-all.zip in gradle-wrapper.properties for JDK 14 support 
+
+
+## Programming
 Mapping channels
 - cmp 1 0 : channel 1 to nothing
     - 1 heel, 2 midfoot, 3 toes
@@ -113,8 +140,3 @@ This contains abstracts and corresponding video presentations at the IROS Confer
 
 
 
-# ASCU App
-ScreenSetLev: initialization for the percentages
-
-Could not initialize class org.codehaus.groovy.reflection.ReflectionCache:
-Reset distributionUrl=https\://services.gradle.org/distributions/gradle-6.3-all.zip in gradle-wrapper.properties for JDK 14 support 

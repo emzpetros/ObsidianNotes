@@ -21,25 +21,23 @@ Walking and talking, climbing stairs and checking
 Multitasking 
 
 # Script
+Did you do any walking today?  Did you have any problems with it?  Chances are you were walking around without even thinking about it.  Now imagine walking without being able to feel your foot.  This is the reality for individuals with lower limb amputations.  
 
-Walking is an activity many of us do everyday without even thinking.  But in fact, gait has both automatic and cognitively controlled components.  
+Sensation from our feet is critical for controlling our walking.  With every step our nervous system is constantly integrating sensory information including tactile sensation from our feet.  With this information, we can react to something in our environment like a crack in the sidewalk and maintain our walking. 
 
-Consider walking over uneven ground.  As part of gait, you process visual information about the path in front of you, vestibular input about your balance, and tactile sensation from your feet to know how steady your contact with the ground is.  Integrating all this information and then controlling your muscles to adjust to the complex environment requires cognitive attention.  
+For those without limb loss, this processing happens automatically and doesn't require dedicated focus.  But it's a different story for lower limb amputees who walk with a prosthesis as shown here
 
-So walking imposes an attentional demand on us.  For an able-bodied individual, this demand is small.
+Without an intuitive sense of where their prosthetic foot is contacting the ground, they report having to focus on each and every step.  This extra mental demand or cognitive load can reduce confidence in their walking and make it harder to engage in daily activities.
 
-However, for individuals with lower limb loss it is different. These individuals utilize a prosthesis to walk but this device provides no information about foot-to-floor interactions.  Without this sensation, individuals with lower limb amputations report having to devote extra attention to each and every step.  This uncertainty in walking can reduce confidence in their walking and make it harder for these people to engage in daily functional activities.
+My research delves into this cognitive load of walking.  Specifically, can it be reduced by restoring sensation from the foot?  
 
-My research delves into how restoring this missing sensation affects the attentional demands of walking.     
+To restore sensation, small electrodes are implanted around nerves that used to carry information from the individual's missing limb.  As shown in the yellow callout, we send small electrical pulses to the nerve that gets fed into the nervous system.  These signals are interpreted by the brain as sensory input arising from the foot.
 
-To restore sensation, small electrodes are implanted around the nerves that used to carry information from the individual's missing foot.  By sending small electrical pulses to the nerve we can input signals into the nervous system that the brain interprets as sensation from the missing foot.
+With this technology I will run multitasking experiments designed to divide attention.  Participants will walk while performing a secondary task such repeatedly subtracting by 7's.  We have a limited amount of attention we can devote to tasks.  Since walking itself requires attention, doing two tasks at once will negatively affect performance.  For example, they walking may be slower or mistakes may be made in the subtractions.
 
-With this technology I will run multitasking experiments with restored sensation active and inactive.  In these experiments, I will have participants walk while performing a secondary task such as subtracting by 7's.  This forces them to split their attention.  As a result, I expect the performance in one or both tasks to decrease.  For example, they may walk slower or make mistakes in the subtractions.
+This experiment will be run with restored sensation active and inactive.  If restored sensation reduces the cognitive load of walking, then I would expect to see higher task performance when sensation is active.
 
-I hypothesize that restored sensation will reduce the attentional burden of walking and result in higher task performance in these experiments.
-
-Such an effect would shine a light on how sensation information affects a complex behavior like walking.  But more importantly, an intervention that restores sensation could then improve the quality of life for individuals with lower limb amputations by making every step easier.   
-
+Such an effect would shine a light on how sensation information affects a complex behavior like walking.  But more importantly, an intervention that restores sensation could  improve the quality of life for individuals with lower limb amputations by making every step easier.   
 
 HC + RT
 - AI generated 
@@ -70,6 +68,27 @@ Attentional load as title
 - Lightening bolt in bar
 
 ## Notes
+### D1
+Walking is an activity many of us do everyday without even thinking.  But in fact, gait has both automatic and cognitively controlled components.  
+
+Consider walking over uneven ground.  As part of gait, you process visual information about the path in front of you, vestibular input about your balance, and tactile sensation from your feet to know how steady your contact with the ground is.  Integrating all this information and then controlling your muscles to adjust to the complex environment requires cognitive attention.  
+
+So walking imposes an attentional demand on us.  For an able-bodied individual, this demand is small.
+
+However, for individuals with lower limb loss it is different. These individuals utilize a prosthesis to walk but this device provides no information about foot-to-floor interactions.  Without this sensation, individuals with lower limb amputations report having to devote extra attention to each and every step.  This uncertainty in walking can reduce confidence in their walking and make it harder for these people to engage in daily functional activities.
+
+My research delves into how restoring this missing sensation affects the attentional demands of walking.     
+
+To restore sensation, small electrodes are implanted around the nerves that used to carry information from the individual's missing foot.  By sending small electrical pulses to the nerve we can input signals into the nervous system that the brain interprets as sensation from the missing foot.
+
+With this technology I will run multitasking experiments with restored sensation active and inactive.  In these experiments, I will have participants walk while performing a secondary task such as subtracting by 7's.  This forces them to split their attention.  As a result, I expect the performance in one or both tasks to decrease.  For example, they may walk slower or make mistakes in the subtractions.
+
+I hypothesize that restored sensation will reduce the attentional burden of walking and result in higher task performance in these experiments.
+
+Such an effect would shine a light on how sensation information affects a complex behavior like walking.  But more importantly, an intervention that restores sensation could then improve the quality of life for individuals with lower limb amputations by making every step easier.   
+
+---
+
 In my lab’s previous work, we developed a sensory neuroprosthesis that as the name implies, restores sensations to the prosthetic limb by interacting with the body’s nervous system.  Imagine the nerves that used to connect to the missing foot are wires.  They are expecting electrical information that means “I’m putting pressure on my heel.”  We can recreate this input by sending small electrical pulses to electrodes around the nerves.  That information is carried to the brain as if it was a signal from the foot.  As a result, when a participant steps with the neuroprosthesis they feel sensation from their prosthetic foot.
 
 
