@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -162,8 +162,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3MT.md",
+                "file": "School/Classes/ANAT414.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3MT.md",
+                "file": "School/Classes/ANAT414.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3MT.md"
+                "file": "School/Classes/ANAT414.md"
               }
             }
           },
@@ -255,11 +254,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "56ac192fdb0d4275",
+  "active": "6536dd581b8b6523",
   "lastOpenFiles": [
+    "3MT.md",
     "Research/Experiments/ColorWordMatch/ColorWordMatch.md",
     "Research/Experiments/Dual Task/Dual Task.md",
-    "3MT.md",
     "Research/Equipment.md",
     "Research/Resources/ASCU Internal Code.md",
     "School/Classes/ANAT414.md",
