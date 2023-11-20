@@ -1,4 +1,4 @@
-[https://www.thingiverse.com/thing:3304456](https://www.thingiverse.com/thing:3304456/makes)
+nugfm[https://www.thingiverse.com/thing:3304456](https://www.thingiverse.com/thing:3304456/makes)
 
   
 
@@ -76,3 +76,12 @@
 [https://all3dp.com/2/easiest-way-to-change-filament-on-ender-3/](https://all3dp.com/2/easiest-way-to-change-filament-on-ender-3/)
 
 [https://www.matterhackers.com/articles/how-to-post-process-wood-infused-3d-filament](https://www.matterhackers.com/articles/how-to-post-process-wood-infused-3d-filament)
+
+
+
+# Part 2
+https://www.thingiverse.com/thing:1233645 Hinged boxed!
+https://www.thingiverse.com/thing:1233645/makes with hinges
+https://www.amazon.com/SDTC-Tech-Jewelry-Matching-Decorative/dp/B084JF5Z1W/ref=sr_1_8?keywords=small%2Bhinged%2Bclasp%2Bjewelry%2Bbox&sr=8-8&th=1
+
+https://www.thingiverse.com/thing:4088442 Drawer box

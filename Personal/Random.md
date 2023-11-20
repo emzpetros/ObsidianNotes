@@ -24,39 +24,41 @@ Cadillac
   
 
 Restaurant notes
-
 - [ ] Do not order brussel sprouts at nandos
 - [ ] No mashed tados vessel or Thai carrots
 
   
 
 Recovery
-
 - Fitbit 57323
-
 5653
 
-  
-
 [[Minecraft Server]]
-
 [[Phone Holder Car]]
 
   
 
-  
 
-27.2
-
-16cm
-
-  
-
-12.4 1.9
-
-  
-
+# Christmas 23
+- Isabel Camera
+- Mom box
+- Dad
+- James now playing https://petrudesign.com/
+- Zack poster?, zelda box
+- Lauren zelda box
+- Secret santa GWC zelda box
+- secret santa roomies
+- [ ] Hinges
+- [ ] Gold filament, more black?
 # Gifts
+
+Zelda prints
+- Heart and stamina vessels
+- https://pinshape.com/items/44201-3d-printed-zelda-botw-stamina-vessel
+- https://www.thingiverse.com/thing:2843382
+- https://www.thingiverse.com/thing:3499284 planter
+
+[[Twist boxes]]
 
 Now playing display for James record player
 

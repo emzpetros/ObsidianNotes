@@ -24,20 +24,21 @@ Multitasking
 # Script
 Title: Can sensory restoration reduce the mental effort of walking?
 
-For many people walking is an activity we do every day.  It's such a practiced movement that we don't even think about it.  In reality, your brain is doing a ton of work to coordinate walking.  With every step, our nervous system is  integrating sensory information including sensation from the bottom of our feet.  Most times we don't appreciate this sensation but just intuitively use it to stay steady .  
+For many people walking is an activity we do every day.  It's such a practiced movement that we don't even think about it.  In reality, your brain is doing a ton of work to coordinate walking.  With every step, our nervous system is  integrating sensory information including sensation from the bottom of our feet.  Most times we don't appreciate this sensation but we are intuitively using it to stay steady .  
 
-But imagine you cannot feel your foot.  Before walking required hardly any thought, but now there are countless questions in your head: Is the ground under my foot level?  Am I stepping on something slippery?  Am I going to lose my balance?
+Now imagine you cannot feel your foot.  Before walking required hardly any thought, but now there are countless questions in your head: Is the ground under my foot level?  Am I stepping on something slippery?  Am I going to lose my balance?  
 
-This is the reality for individuals with lower limb amputations.  They cannot feel their prosthetic foot so every step is uncertain.  Walking now requires a high level of attention.  
-This becomes an issue since we walk in  highly dynamic environments.  Constant distractions  split our attention.  For individuals with limb loss, even a small diversion that takes the focus away from walking can lead to poor foot placement and a fall.
+This is the reality for individuals with lower limb amputations.  They cannot feel their prosthetic foot which makes every step uncertain.  Walking now requires a high level of attention.  This becomes an issue since we walk in highly dynamic environments.  There's cars, people, our phones...  Constant distractions that split our attention.  For individuals with limb loss, even a small diversion that takes the focus away from walking can lead to poor foot placement and a fall.
 
-In my research, I am investigating if we can reduce this mental burden of walking.  The brain is working overtime to compensate for the lack of sensation from the foot.  So what happens if we restore it!
+So in my research, I'm investigating if we can reduce this mental burden of walking.  I think the brain is working overtime to compensate for the lack of sensation from the foot.  So what happens if we restore it!
 
-In order to do this, my lab implants small electrodes around the nerves that used to carry information from the individual's missing foot.  Then we send little electrical pulses to the nerve through the electrodes.  These signals are interpreted by the brain as sensory input arising from the missing foot!  
+In order to do this, my lab implants small electrodes around the nerves that used to carry information from the individual's missing foot.  Then we send electrical pulses to the nerve through the electrodes.  These signals are interpreted by the brain as sensory input arising  from the missing foot!  
 
-With this technology in place, I can assess its effect using multitasking scenarios.  In these experiments, participants walk on a treadmill while performing a secondary task such as memorizing a sequence of numbers.  I can track performance in the tasks by measuring walking speed and the number of errors in the sequence.  I will run the experiment with restored sensation inactive and then active.  If the sensation reduces the mental effort of walking, then I would expect to see an improvement in task performance.
+With this technology in place, I can assess the mental burden of walking.  To do this, I conduct experiments where participants perform two tasks at once.  For example, walking on a treadmill while while memorizing a sequence of numbers.  Multitasking like this overwhelms our processing capacity and makes it harder to focus on walking.  Especially for this population where walking requires so much extra effort, this is the perfect setup to assess the effect of restored sensation.
 
-Such an effect would shine a light on how sensation information affects a complex behavior like walking.  But more importantly, for those with limb loss. sensory restoration could then make every step easier and safer.  
+I will run this experiment with restored sensation inactive and then active.  If performance improves, that would suggest having sensation reduces the mental burden of walking.
+
+Studying this interaction could enhance our understanding of how sensory information influences our mental processing.  For those with lower limb loss, this knowledge could inform the development of interventions that make every step easier and safer.  
 
 
 # JH
@@ -79,6 +80,8 @@ Attentional load as title
 - Lightening bolt in bar
 
 ## Notes
+
+- I can measure the effects of this divided attention by tracking performance measures such as walking speed and the number of errors in the memorization.  
 - These signals can be easily processed because we're interacting with the body's natural communication systems.
 - The additional task diverts some attention away from walking and 
 Since walking itself requires attention, doing two tasks at once will reduce performance in one or both.  For example, their walking may be slower or mistakes may be made in the subtractions.
