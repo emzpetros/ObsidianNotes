@@ -85,3 +85,11 @@ https://www.thingiverse.com/thing:1233645/makes with hinges
 https://www.amazon.com/SDTC-Tech-Jewelry-Matching-Decorative/dp/B084JF5Z1W/ref=sr_1_8?keywords=small%2Bhinged%2Bclasp%2Bjewelry%2Bbox&sr=8-8&th=1
 
 https://www.thingiverse.com/thing:4088442 Drawer box
+
+Base 9 hr
+big drawer 6 hf 50
+bottom plate, legs, knobs 4 47
+drawers multiple 9.5
+single drawer 3-4
+
+ALWAYS USE RAFTS, brims will cause corner lift

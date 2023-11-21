@@ -26,19 +26,19 @@ Title: Can sensory restoration reduce the mental effort of walking?
 
 For many people walking is an activity we do every day.  It's such a practiced movement that we don't even think about it.  In reality, your brain is doing a ton of work to coordinate walking.  With every step, our nervous system is  integrating sensory information including sensation from the bottom of our feet.  Most times we don't appreciate this sensation but we are intuitively using it to stay steady .  
 
-Now imagine you cannot feel your foot.  Before walking required hardly any thought, but now there are countless questions in your head: Is the ground under my foot level?  Am I stepping on something slippery?  Am I going to lose my balance?  
+Now imagine you cannot feel your foot.  Before walking required hardly any thought, but now there are tons of questions in your head: Is the ground under my foot level?  Am I stepping on something slippery?  Am I going to lose my balance?  
 
 This is the reality for individuals with lower limb amputations.  They cannot feel their prosthetic foot which makes every step uncertain.  Walking now requires a high level of attention.  This becomes an issue since we walk in highly dynamic environments.  There's cars, people, our phones...  Constant distractions that split our attention.  For individuals with limb loss, even a small diversion that takes the focus away from walking can lead to poor foot placement and a fall.
 
-So in my research, I'm investigating if we can reduce this mental burden of walking.  I think the brain is working overtime to compensate for the lack of sensation from the foot.  So what happens if we restore it!
+So in my research, I'm investigating if we can reduce this mental burden of walking.  I hypothesize that the brain is working overtime to compensate for the missing sensation from the foot.  So what happens if we restore sensation!
 
-In order to do this, my lab implants small electrodes around the nerves that used to carry information from the individual's missing foot.  Then we send electrical pulses to the nerve through the electrodes.  These signals are interpreted by the brain as sensory input arising  from the missing foot!  
+In order to do this, my lab implants small electrodes around the nerves that used to carry information from the individual's missing limb.  Then we send electrical pulses to the nerve through the electrodes.  These signals are interpreted by the brain as sensory input arising from the missing foot!  So when a participant steps with their prosthetic foot, they can feel it!
 
-With this technology in place, I can assess the mental burden of walking.  To do this, I conduct experiments where participants perform two tasks at once.  For example, walking on a treadmill while while memorizing a sequence of numbers.  Multitasking like this overwhelms our processing capacity and makes it harder to focus on walking.  Especially for this population where walking requires so much extra effort, this is the perfect setup to assess the effect of restored sensation.
+With this technology in place, I can assess it's effect on mental burden required by walking.  To do this, I conduct experiments where participants perform two tasks at once.  For example, walking on a treadmill while while memorizing a sequence of numbers.  Multitasking like this overwhelms our processing capacity and makes it harder to focus on walking.  Especially for this population where walking requires so much extra effort, this is the perfect setup to evaluate  the effect of restoring sensation.
 
-I will run this experiment with restored sensation inactive and then active.  If performance improves, that would suggest having sensation reduces the mental burden of walking.
+I will run this experiment with sensation inactive and then active.  If performance improves, that would suggest having sensation reduces the mental burden of walking.
 
-Studying this interaction could enhance our understanding of how sensory information influences our mental processing.  For those with lower limb loss, this knowledge could inform the development of interventions that make every step easier and safer.  
+Studying this interaction could of course enhance our understanding of how sensory information influences mental processing.  But on an individual level, for those with lower limb loss, this knowledge could motivate the development of interventions using sensory restoration with the ultimate goal of making every step easier and safer.  
 
 
 # JH
