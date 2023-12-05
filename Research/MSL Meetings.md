@@ -1,4 +1,46 @@
+# Hamid
+Effect of Neuroprosthesis at Home + Community aka Homegoing
 
+Compared to able-bodied: higher fall, lower balance confidence, gait stability worse, phantom pain, re-amputation risk
+
+Take home
+- 2-3 cm between distal and proximal 
+- Self reported stumble frequency went down when active 
+- Stair negotiation: lead with prosthetic first usually to balance on intact
+	- Shift to more 50/50 split 
+	- Full stop before ascending stairs 
+	- Increased stair probing during stair descent 
+	- High + percent change in post-active one: looking for step 
+- Theoretical model of sensorimotor integration of SNP
+
+Improved user interface
+- Stable ASCU 
+
+CDMRP Grant
+- Functional outcomes, Structured Training + Exercise Program, user experience (embodiment, QoL), fully implantable in 2 participants 
+- Implanted iSens: 6 total, 2 transfemoral
+- 1 month at beginning of baseline + 1st active phase to acclimate + adjust stim params 
+STEP
+- Fall prevention (Mark Grabiner) + neuroporsthesis integration exercises (faster acclimation to SNP
+- Treadmill: stationary to perturb, one step to recover, increasing displacement 
+	- Same thing but treadmill continues 
+- Limit of stability + rhythmic weight shifting
+- Integration Exercises
+	- Improve familiarity, prepare for sensation during ambulatory movements
+	- Rocking, weight shift + slow movement, balance, stair tap + step up 
+Assessments
+- LOS and RWS
+- TUG, FGA, GRF, spatiotemporal 
+- Stability + perturbation recovery: trunk angular velocity, whole body angular momentum, recovery strat
+- Stairs: strategy + performance error
+- Subj Measures
+- ![[Pasted image 20231128095342.png]]
+
+Lived Experience w/ SNP
+- Grounded theory for framework generaiton
+- Open-ended interviews
+
+Sensory characterization, system usage, stim params 
 # Dr. Jorge Candiotti
 User's perception towards robotic assistive technology: A mixed-method approach 
 

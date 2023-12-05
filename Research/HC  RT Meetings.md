@@ -1,3 +1,36 @@
+
+
+# Journal Reviews 
+First paragraph: summary 
+Recommendation 
+Bullets
+- Major: Scope, methods - controls, stats, graphs
+- Minor: typos, captions, missing units / info
+
+Tone
+- Suggestive for accepted with corrections 
+
+
+# 12/4/2023
+Agenda
+- Able bodied data collection this week
+	- Hamid will be in
+- Upright Perception Slide review
+	- Suggestions for the experimental design
+	- Moving platform, VR headset, quiet stance 
+	- Protecting subjects in a standing dark room 
+	- Head tilt: visual info now unreliable 
+		- Sensory integration??? 
+	- Rely on plantar input
+- Manuscript 
+	- Lead changes + design changes in methods or results 
+- DT
+	- Step phase: distribution + characterize skewness 
+	- When are outliers more likely to happen 
+	- Time Out Session
+		- If accuracy goes down, does the gait change ?
+		- 
+
 # Website Stuff
 https://case.edu/wcms/training-support/drupal-training-and-drop-sessions 
 

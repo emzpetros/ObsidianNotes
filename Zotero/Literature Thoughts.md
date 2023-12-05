@@ -139,6 +139,8 @@ Speed + DT
 - Need for imaging: same behavioral level of performance can be accomplished with differing levels of mental load!
 - 
 
+
+
 # To Look Into
 - Direct and indirect locomotor pathways
 - Dorsolateral prefrontal cortex
@@ -151,4 +153,16 @@ Speed + DT
 - Older adults
 - Younger adults
 - Effect of gait speed + task
-- 
+
+Tasks
+- Trail making
+- stroop
+- Auditory stroop: pitch, loudness, speed
+- Verbal Fluency / word generation
+- Serial subtraction
+- Go / NoGo
+- Shepard and Metzler 1971 mental rotation of 3D objects
+- Custom distractor
+- Brook's spatial memory task: numbers in matrices, remember positions
+Iowa Gambling Task
+https://en.wikipedia.org/wiki/Oddball_paradigm 

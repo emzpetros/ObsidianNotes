@@ -1,4 +1,12 @@
 
+# Time out Trials
+INCORRECT
+![[Pasted image 20231203174843.png]]
+
+CORRECTED: D entry shows matching entry for B before it, all after are shifted down by one 
+![[Pasted image 20231203174903.png]]
+# Dflow Colors
+WORD_OPTIONS = {"Red", "Green", "Blue", "Yellow"}
 
 # NEC Data Synthesis
 

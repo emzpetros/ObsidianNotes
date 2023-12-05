@@ -163,3 +163,6 @@ The goal of this course is to provide graduate students with an opportunity to t
 - IBMS 500 1
 - 450 BME Entrepreneurship + seminars
 
+
+CV + Biodesign
+you can consider ECSE 499 Algorithmic Robotics. ECSE 499 will teach you what immersive VR/AR headsets use to map and navigate to determine where they are in space. You may want to take ECSE 489 Robotics I before taking 499. There is also my class ECSE 487 (cross-listed with ECSE 390), in which students develop a rehabilitation VR game for a clinical mentor.

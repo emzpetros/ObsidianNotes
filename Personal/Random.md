@@ -41,17 +41,28 @@ Recovery
 
 # Christmas 23
 - Isabel Camera
+	- https://www.redbubble.com/i/throw-pillow/Don-t-Starve-Abigail-by-ChaoticWastelan/23132985.5X2YF?ref_list_id=srp_results&ref_list_index=2 
 - Mom box
-- Dad - spice rack?  
+- Dad - sudoku subscriptions 
 	- Laptop 
 - James now playing https://petrudesign.com/
 	- Gaming headset , 3.5 mm
-- Zack poster?, zelda box
+- Zack zelda box
 - Lauren zelda box
-- Secret santa GWC zelda box
-- secret santa roomies
-- [ ] Hinges
-- [ ] Gold filament, more black?
+- Secret santa GWC zelda box, zelda guide book
+- secret santa roomies: pokemongo plus + 3d print clip https://www.thingiverse.com/thing:3129001 
+- Jim - Don't starve merch https://shop.klei.com/collections/dont-starve?page=1 
+	- https://www.thingiverse.com/thing:5790625
+- [ ] print box - gcode ready
+- [ ] print box x3 - gcode ready
+- [ ] print clip - gcode ready
+- [x] print tooth - gcode ready
+	- [x] https://www.thingiverse.com/thing:3741674/files
+	- [x] https://www.thingiverse.com/thing:1485497
+	- [x] https://www.thingiverse.com/thing:2074344/files
+- [ ] Print piano - gcode ready
+	- [ ] Black
+	- [x] White
 # Gifts
 
 Zelda prints

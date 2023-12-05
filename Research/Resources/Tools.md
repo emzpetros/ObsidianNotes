@@ -2,6 +2,8 @@ Character Creator 3.0
 
 - Avatars
 
+Rocketbox Library + Movebox
+- Avatar library from Microsoft
   
 
 Final IK Unity Package [Final IK - RootMotion (root-motion.com)](http://www.root-motion.com/final-ik.html)

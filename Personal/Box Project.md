@@ -1,4 +1,4 @@
-nugfm[https://www.thingiverse.com/thing:3304456](https://www.thingiverse.com/thing:3304456/makes)
+[https://www.thingiverse.com/thing:3304456](https://www.thingiverse.com/thing:3304456/makes)
 
   
 
@@ -92,4 +92,10 @@ bottom plate, legs, knobs 4 47
 drawers multiple 9.5
 single drawer 3-4
 
-ALWAYS USE RAFTS, brims will cause corner lift
+
+Raft causing corner lift??
+- https://www.reddit.com/r/3Dprinting/comments/fpt7ns/help_with_print_lifting_from_raft_please/?rdt=35871 
+- Switching to brim and releveling
+
+https://all3dp.com/2/ender-3-bed-leveling-all-you-need-to-know/
+

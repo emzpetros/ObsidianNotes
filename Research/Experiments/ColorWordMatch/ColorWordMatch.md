@@ -40,7 +40,96 @@ Movement Disorders
 - Gait stability measures  
 - Talk to David Cunningham 
 
-# 9/12/23 LE06 - Prioritzation
+
+
+
+# 12/6/2023 AB
+Number per block : 22
+Total time: 30 seconds
+Interval: 5 (any amount of time)
+Jitter: 0
+Sensitivity: 1.0
+PWS: ??
+
+Find PWS
+
+|   |   |   |   |
+|---|---|---|---|
+|Trial|Note|Time|Data|
+|Static|27 markers|5 seconds|Vicon|
+|||||
+|Baseline_SP_01||3 mins|Vicon, DFlow|
+|||||
+|ST|Stim on|30 seconds|DFlow, Video|
+|DT_01||3 mins|Vicon, DFlow, Video|
+|DT_02||||
+|DT_03||3 mins|Vicon, DFlow, Video|
+||||Vicon, DFlow, Video|
+|Baseline_SP_02||3 mins||
+|ST||||
+|DT_01||2 mins|Vicon, DFlow, Video|
+|DT_02||2 mins|Vicon, DFlow, Video|
+|DT_03||2 mins|Vicon, DFlow, Video|
+
+# 12/8/2023 AB
+
+Number per block : 22
+Total time: 30 seconds
+Interval: 5 (any amount of time)
+Jitter: 0
+Sensitivity: 1.0
+PWS: ??
+
+Find PWS
+
+|   |   |   |   |
+|---|---|---|---|
+|Trial|Note|Time|Data|
+|Static|27 markers|5 seconds|Vicon|
+|||||
+|Baseline_SP_01||3 mins|Vicon, DFlow|
+|||||
+|ST|Stim on|30 seconds|DFlow, Video|
+|DT_01||3 mins|Vicon, DFlow, Video|
+|DT_02||||
+|DT_03||3 mins|Vicon, DFlow, Video|
+||||Vicon, DFlow, Video|
+|Baseline_SP_02||3 mins||
+|ST||||
+|DT_01||2 mins|Vicon, DFlow, Video|
+|DT_02||2 mins|Vicon, DFlow, Video|
+|DT_03||2 mins|Vicon, DFlow, Video|
+
+
+# 11/29/23 LE02 Max Response Time
+
+Number per block : 50, should never be reached
+Total time: 30 seconds
+Interval: **1.5**
+Jitter: 0
+Sensitivity: 1.0
+PWS: 1.0
+
+|   |   |   |   |
+|---|---|---|---|
+|Trial|Note|Time|Data|
+|Static|27 markers|5 seconds|Vicon|
+|||||
+|Baseline_SOff_SP_01||3 mins|Vicon, DFlow|
+|||||
+|ST_SOff_standing|Stim on|30 seconds|DFlow, Video|
+|DT_SOff_01||3 mins|Vicon, DFlow, Video|
+|DT_SOff_02||||
+|DT_SOff_03||3 mins|Vicon, DFlow, Video|
+||||Vicon, DFlow, Video|
+|Baseline_SOff||3 mins||
+|ST_SOn_standing||||
+|DT_SOn_01||2 mins|Vicon, DFlow, Video|
+|DT_SOn_02||2 mins|Vicon, DFlow, Video|
+|DT_SOn_03||2 mins|Vicon, DFlow, Video|
+
+
+# 9/12/23 LE06 - Prioritization
 
 Number per block : 22
 
@@ -306,28 +395,29 @@ PWS: 1.1
 
 Task Count: 22 each
 
+
+
 |   |   |   |   |
 |---|---|---|---|
 |Trial|Note|Time|Data|
 |Static|27 markers|5 seconds|Vicon|
 |||||
-|Baseline_SOff_SP_01|marker moved to shoulder but stayed steady|3 mins|Vicon, DFlow|
+|Baseline_SOff_SP_01||3 mins|Vicon, DFlow|
 |||||
 |ST_SOff_||30 seconds|DFlow, Video|
-|DT_SOff_01|22 on first|3 mins|Vicon, DFlow, Video|
-|DT_SOff_02|Not hesitating||Missing Clavicle marker|
+|DT_SOff_01|skipped a couple|3 mins|Vicon, DFlow, Video|
+|DT_SOff_02|||Missing Clavicle marker|
 |DT_SOff_03||3 mins|Vicon, DFlow, Video|
 ||||Vicon, DFlow, Video|
 |Baseline_SOn_SP_01|all good!|3 mins||
-|ST_SOn_|Yawn, interrupted||DFlow, Video|
-|ST_SOn_02|true data|||
-|DT_SOn_01||2 mins|Vicon, DFlow, Video|
+|ST_SOn_|||DFlow, Video|
+|DT_SOn_01|92, didn't click on one that was answered in time|2 mins|Vicon, DFlow, Video|
 |DT_SOn_02||2 mins|Vicon, DFlow, Video|
-|DT_SOn_03||2 mins|Vicon, DFlow, Video|
-
-  
+|DT_SOn_03|couple fast ones|2 mins|Vicon, DFlow, Video|
 
 Static_01
+
+92 seconds 
 
 # 6/14/23 LE06
 
