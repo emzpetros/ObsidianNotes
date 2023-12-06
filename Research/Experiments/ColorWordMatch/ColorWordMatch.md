@@ -43,7 +43,7 @@ Movement Disorders
 
 
 
-# 12/6/2023 AB
+# 12/6/2023 AB22
 Number per block : 22
 Total time: 30 seconds
 Interval: 5 (any amount of time)
@@ -71,7 +71,7 @@ Find PWS
 |DT_02||2 mins|Vicon, DFlow, Video|
 |DT_03||2 mins|Vicon, DFlow, Video|
 
-# 12/8/2023 AB
+# 12/8/2023 AB21
 
 Number per block : 22
 Total time: 30 seconds
@@ -79,6 +79,32 @@ Interval: 5 (any amount of time)
 Jitter: 0
 Sensitivity: 1.0
 PWS: ??
+
+Measurements[https://docs.vicon.com/display/Nexus215/Modeling+with+Plug-in+Gait]: metric
+- Mass: from Vicon
+- Height: 
+- Left Leg Length
+	- ASIS to and medial ankle - soft tape measure
+- Right Leg Length
+- L Knee Width:
+	- Standing, medio-lateral through knee axis - calipers
+- R Knee Width
+- L Ankle Width:
+	- Standing, through mealleoli - calipers
+- R Ankle Width
+- L Hand Thickness:
+	- Anterior and posterior palm to back
+- R Hand Thickness:
+- L Wrist WIdth:
+	- palm to back
+- R Width Width:
+- L Elbow Thickness:
+	- flexion axis
+- R Elbow Thickness:
+- L shoulder OFfset
+	- Base of shoulder marker to shoulder joint center 
+- R Shoulder Offset
+![[Pasted image 20231205193825.png]]
 
 Find PWS
 
