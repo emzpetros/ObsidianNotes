@@ -19,6 +19,8 @@ Quest Attachments
 
 Vicon Real Time SDK: [https://docs.vicon.com/display/DSSDK111/DataStream+SDK+Documentation?preview=/101888965/101888968/Vicon DataStream SDK Developer's Guide.pdf](https://docs.vicon.com/display/DSSDK111/DataStream+SDK+Documentation?preview=/101888965/101888968/Vicon%20DataStream%20SDK%20Developer%27s%20Guide.pdf)
 
+Musa BodyBuilder Tutorial: https://drive.google.com/drive/folders/1bvlj_O5lIGlsT9rclYDrfbRVH3SVkPym 
+
 Vicon Unity Integration for HMD: [https://www.vicon.com/software/third-party/unity/?section=downloads](https://www.vicon.com/software/third-party/unity/?section=downloads)
 
 - [https://docs.vicon.com/display/UnityPlugin12/Install+and+set+up+the+software](https://docs.vicon.com/display/UnityPlugin12/Install+and+set+up+the+software)

@@ -54,14 +54,14 @@ Recovery
 - Jim - Don't starve merch https://shop.klei.com/collections/dont-starve?page=1 
 	- https://www.thingiverse.com/thing:5790625
 - [ ] print box - gcode ready
-- [ ] print box x3 - gcode ready
-- [ ] print clip - gcode ready
+- [x] print box x2 - gcode ready
+- [x] print clip - gcode ready
 - [x] print tooth - gcode ready
 	- [x] https://www.thingiverse.com/thing:3741674/files
 	- [x] https://www.thingiverse.com/thing:1485497
 	- [x] https://www.thingiverse.com/thing:2074344/files
-- [ ] Print piano - gcode ready
-	- [ ] Black
+- [x] Print piano - gcode ready
+	- [x] Black
 	- [x] White
 # Gifts
 
@@ -107,7 +107,7 @@ Now playing display for James record player
 
 [[Lightsaber Model]]
 
-[[Box Project]]
+[[Box Projects]]
 
 [[Chess Set]]
 

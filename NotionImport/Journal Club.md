@@ -1,6 +1,6 @@
 
 
-# 
+
 
 ## Notes
 Waterloo Footedness Questionnaire for leg dominance 

@@ -41,7 +41,32 @@ Movement Disorders
 - Talk to David Cunningham 
 
 
+# 12/13/2023 LE02 Max Response Time
+Number per block : 50, should never be reached
+Total time: 30 seconds
+Interval: **1.5**
+Jitter: 0
+Sensitivity: 1.0
+PWS: 1.0
 
+
+|   |   |   |   |
+|---|---|---|---|
+|Trial|Note|Time|Data|
+|Static|27 markers|5 seconds|Vicon|
+|||||
+|Baseline_SOff_SP_01||3 mins|Vicon, DFlow|
+|||||
+|ST_SOff_standing|Stim on|30 seconds|DFlow, Video|
+|DT_SOff_01||3 mins|Vicon, DFlow, Video|
+|DT_SOff_02||||
+|DT_SOff_03||3 mins|Vicon, DFlow, Video|
+||||Vicon, DFlow, Video|
+|Baseline_SOff||3 mins||
+|ST_SOn_standing||||
+|DT_SOn_01||2 mins|Vicon, DFlow, Video|
+|DT_SOn_02||2 mins|Vicon, DFlow, Video|
+|DT_SOn_03||2 mins|Vicon, DFlow, Video|
 
 # 12/6/2023 AB22
 Number per block : 22
@@ -51,45 +76,15 @@ Jitter: 0
 Sensitivity: 1.0
 PWS: ??
 
-Find PWS
-
-|   |   |   |   |
-|---|---|---|---|
-|Trial|Note|Time|Data|
-|Static|27 markers|5 seconds|Vicon|
-|||||
-|Baseline_SP_01||3 mins|Vicon, DFlow|
-|||||
-|ST|Stim on|30 seconds|DFlow, Video|
-|DT_01||3 mins|Vicon, DFlow, Video|
-|DT_02||||
-|DT_03||3 mins|Vicon, DFlow, Video|
-||||Vicon, DFlow, Video|
-|Baseline_SP_02||3 mins||
-|ST||||
-|DT_01||2 mins|Vicon, DFlow, Video|
-|DT_02||2 mins|Vicon, DFlow, Video|
-|DT_03||2 mins|Vicon, DFlow, Video|
-
-# 12/8/2023 AB21
-
-Number per block : 22
-Total time: 30 seconds
-Interval: 5 (any amount of time)
-Jitter: 0
-Sensitivity: 1.0
-PWS: ??
-
-Measurements[https://docs.vicon.com/display/Nexus215/Modeling+with+Plug-in+Gait]: metric
 - Mass: from Vicon
-- Height: 
-- Left Leg Length
+- Height: 70.8 inches
+- Left Leg Length:88.9
 	- ASIS to and medial ankle - soft tape measure
-- Right Leg Length
-- L Knee Width:
+- Right Leg Length: 88.5
+- L Knee Width: 10.6
 	- Standing, medio-lateral through knee axis - calipers
-- R Knee Width
-- L Ankle Width:
+- R Knee Width: 10.7
+- L Ankle Width: 7.7 left form his 7.7
 	- Standing, through mealleoli - calipers
 - R Ankle Width
 - L Hand Thickness:
@@ -101,12 +96,83 @@ Measurements[https://docs.vicon.com/display/Nexus215/Modeling+with+Plug-in+Gait]
 - L Elbow Thickness:
 	- flexion axis
 - R Elbow Thickness:
-- L shoulder OFfset
+- L shoulder OFfset: 5.1
 	- Base of shoulder marker to shoulder joint center 
-- R Shoulder Offset
+- R Shoulder Offset: 5.1
+
+Find PWS: 0.8
+
+
+
+|   |   |   |   |
+|---|---|---|---|
+|Trial|Note|Time|Data|
+|Static|27 markers|5 seconds|Vicon|
+|||||
+|Baseline_SP_01||3 mins|Vicon, DFlow|
+|Baseline_SP_02|Worked!|||
+|ST - Baseline_SP_02 on DFLOW|Stim on|30 seconds|DFlow, Video|
+|DT_01||3 mins|Vicon, DFlow, Video|
+|DT_02|marker fell a bit|||
+|DT_03|operator error, forgot to recrod flow|3 mins|Vicon, DFlow, Video|
+||||Vicon, DFlow, Video|
+|Baseline_SP_02||3 mins||
+|ST||||
+|DT_01||2 mins|Vicon, DFlow, Video|
+|DT_02||2 mins|Vicon, DFlow, Video|
+|DT_03||2 mins|Vicon, DFlow, Video|
+
+
+DT_04: 
+
+
+Break
+DT_06: same combination, yellow + red 
+DT_07: 5 characters make a difference 
+
+use static 02 for processing, rename as 01 in visual 3d
+DT_02 missing right thigh marker 
+
+
+
+
+
+# 12/8/2023 AB21
+
+Number per block : 22
+Interval: 5 (any amount of time)
+Jitter: 0
+Sensitivity: 1.0
+PWS: 1.4, maybe 1.5 actually 
+
+Measurements[https://docs.vicon.com/display/Nexus215/Modeling+with+Plug-in+Gait]: metric
+marker 1.6cm
+- Mass: from Vicon
+- Height: 165.3, 6; 5.25 = 165.735cm
+- Left Leg Length 85.2
+	- ASIS to and medial ankle - soft tape measure
+- Right Leg Length: 85.2
+- L Knee Width:11.6 cm-1.6 =10 
+	- Standing, medio-lateral through knee axis - calipers
+- R Knee Width 11.6
+- L Ankle Width:7.4  - marker = 5.8
+	- Standing, through mealleoli - calipers
+- R Ankle Width
+- L Hand Thickness:
+	- Anterior and posterior palm to back
+- R Hand Thickness:
+- L Wrist WIdth:
+	- palm to back
+- R Width Width:
+- L Elbow Thickness:
+	- flexion axis
+- R Elbow Thickness:
+- L shoulder OFfset: 5.3
+	- Base of shoulder marker to shoulder joint center 
+- R Shoulder Offset5.2
 ![[Pasted image 20231205193825.png]]
 
-Find PWS
+Find PWS: 1.4
 
 |   |   |   |   |
 |---|---|---|---|

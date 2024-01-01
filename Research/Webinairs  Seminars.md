@@ -1,4 +1,134 @@
 
+# Committee Practice LH
+
+General limb loss challenges
+Further challenges for transfemoral 
+Neural interface: high density cuffs, SNP
+- Characterize percepts 
+IM electrodes
+
+Aims
+- Dif in neural interface for transfemoral
+	- Previous work intraneural
+	- Found TF was higher 
+	- Toe, midfoot, heel locations for SNP
+	- New method of quantifying intensity: hard to compare between participants 
+		- Use intact limb as reference 
+		- Old method: increasing intensity w/ charge density 
+		- Varying range of intensities per participant 
+- Influence of restored sensation on residual limb muscle activity: plantar + referred proprio
+	- Hypoth: either / both will lead to increased magnitude + control of EMG during various motions
+	- Knee + ankle joint sensations possible 
+	- Exp: move missing knee or ankle + record EMG from IMs
+		- Use those signals to modulate sensation : plantar and knee/ankle
+- EMG control
+	- Locomotion modes, gait phase
+	- Myoelectric control preffered
+	- Challenges: gait mode / terrain changes, falls, trips
+		- Physical + mental fatigue 
+	- Considering gait phase control for open source leg
+- Bidirectional prosthesis effect on gait
+
+14: specify extraneural 
+22 - what's the reason for electrode proximity to residual end making the thresholds higher?
+
+Bidirectional in upper?
+
+Comments:
+- Functional deficits can be attributed to lack of neural connection 
+- Sensory motor integration 
+- Null hypoth format : plantar sensation will be the same, same anatomical location / interface 
+# T32 Kristen Gelenitis
+**Improving outcomes after spinal cord injury: from academic research to clinical trials in industry**
+
+Grad work: neural stim for exercise with paralysis 
+- Rowing + biking
+- Challenges: rapid fatigue + limited force output 
+- Selective Neural Stim: nerve cuffs
+	- Electric field overlap, high duty cycles, non-adaptive stim patterns
+	- optimize stim params, cycle through duty cycles, submax output with feedback control 
+- Notable improvement to work + power output 
+
+VR+ Stimulation Driven Exercise
+- Increase engagement, central drive
+
+Onward:
+- ARC Therapy: targeted, programmed electrical stim of SC for movement, fxn etc
+- ARCex: transcutaneous stim
+- Target upper limb first, highly sought after fxn
+	- Previous studies found gains in control of lower + upper extremities with activity-based training + tSCS
+		- No adverse events or effects
+		- All subjs improved in at least one outcome measure
+- Up-LIFT pivotal trial
+	- Aim of tSCS: not a neuroprosthetic effect but gains last in absence of therapy
+	- 60 participants: fxn task practice for 2 months, arc for 2 months
+	- No adverse events, 72% responded (one strength + fxnal performance metric )
+	- Screening for electrical stim?
+		- Don't believe any stim initial assessments 
+		- Range of baseline abilities 
+	- Gradual stim effect: not enough for muscle, some sensation depending on participant 
+Implanted ArcIM
+- Arc IPG
+- User can adjust amplitudes
+- Hemodynamic instability: BP changes 
+- tracked segements for sympathetic pre-ganglionic neurons for 
+	- Inject tracer in sympathetic ganglia
+- vasoconstriction and BP
+	- low thoracic levels
+- Fesibility
+	- no adverse events, every one improved in one assessment
+	- improvemtns in energy, fatigue + ability to participate in rehab programs
+- Orthostatic head up tilt test
+	- Baroreceptor stabilizes BP normally, not with hypertension 
+Insurance?
+- Thinking about which outcome measures are best for the pivotal study
+- Reduction in BP meds / compensatory strats
+Do they need stim for 8 hrs?  why not clsoed loop for certain postures
+- Ideally yes, working on it
+- But for some people 8 hrs a day, even in wheelchair is an orthostatic challenge
+What's the mechanism?
+- Theory: vasoconstriction
+- Some slight abdominal contractions, not enough to account for BP rise
+- 
+![[Pasted image 20231213165550.png]]
+Kristen.Gelenitis@gmail.com
+
+Clinical sig focus
+# Committee Meeting Practice
+## SL
+Reflexes: 1023
+- Technology overview: cuffs, previous shown benefits
+- Can it reduce fall risk: characterize spinal reflex pathways, evaluate EPS on stumble recovery strats
+Characterize: H-reflex
+- Stimulate peripheral nerve: non selective, produces efferent M-wave + 1a fibers 
+	- sensory fibers activate muscle in smaller wave
+- Modulated by proprioceptive inputs 
+- Plantar sensation modulates modulation 
+- Modulated over gait cycle: more excitable in gastrocnemius in late stance for more plantar flexion
+EPS Reflex Exp
+- Characterize EPS role on H-reflex excitability under different postures
+- Hypoth: EPS will increase inhibition of H-reflex as in previous studies
+Participants: cuff locations, plantar map
+Postures mimic walking phases
+- FP, match force amount 
+- Train of EPS or not , single pulse stimulus to a different contact
+Identifying H-reflex
+- PCA
+- H-reflex + M-wave recruitment curve looks typical : possible to elicit with electrical stim
+Data
+- EPS did not affect Hmax/Mmax but LL2 posture did affect it
+- linear regression model 
+- Not interferring with excitability 
+Background EMG: motor neuron excitabilty, higher is more excitable
+- EPS no effect on H-reflex gain despite diffs in background postures
+Cutaneous modulation acts on proprioception fibers, remaining muscles may be compromised so EPS's effects may be blocked 
+- EPS may also activate proprio fibers -> inhibitory + excitatory 
+- Normally non selective whole tibial nerve stim for H-reflex 
+- Contact stim activates subset of 1a fibers, smaller ratios
+- 
+
+Treadmill Perturbations
+## HM
 
 # Brain-computer interfaces for investigating how neural properties relate to adaptive learning
 

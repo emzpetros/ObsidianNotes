@@ -1,4 +1,9 @@
+# Manual Correction 
+LE02 11/29 Stim Off 2, same in stimon3
+![[Pasted image 20231217154230.png]]
 
+Remove B 72, C71, B 73![[Pasted image 20231217154248.png]]
+D event already removed due to processing
 # Time out Trials
 INCORRECT
 ![[Pasted image 20231203174843.png]]

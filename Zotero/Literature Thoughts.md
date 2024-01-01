@@ -140,6 +140,17 @@ Speed + DT
 - 
 
 
+[[geurtsAttentionDemandsBalance1994]]
+- Idea tha LLA have disrupted efferent + afferent information necessitating central reorganization
+- Choosing a cognitive task to NOT overlap with gait processing challenges
+	- Just assessing attentional effect, not resource competition 
+
+
+[[hintonUnderstandingHumanNeural2020]]
+- Spilt belt walking 
+- proprio informs CPG
+- no evidence for plantar sensation via vibration playing a role in adaptation in healthy adults 
+- Review excluded amputees to focus on CNS disorders 
 
 # To Look Into
 - Direct and indirect locomotor pathways
