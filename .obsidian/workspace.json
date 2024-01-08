@@ -126,9 +126,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "10ba22b7864762c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Classes/EBME472 BioDesign.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -179,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ce3ade9153ee2e84",
@@ -195,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Experiments/ColorWordMatch/Data Processing.md",
+                "file": "School/Classes/EBME472 BioDesign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Experiments/ColorWordMatch/Data Processing.md",
+                "file": "School/Classes/EBME472 BioDesign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Experiments/ColorWordMatch/Data Processing.md"
+                "file": "School/Classes/EBME472 BioDesign.md"
               }
             }
           },
@@ -266,14 +279,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8b2dfd866bf88864",
+  "active": "10ba22b7864762c1",
   "lastOpenFiles": [
+    "Research/MSL Meetings.md",
+    "School/Classes/EBME472 BioDesign.md",
+    "Research/Resources/Tools.md",
+    "NotionImport/ReLLiNC.md",
+    "Research/Experiments/ColorWordMatch/Data Processing.md",
     "Research/Experiments/ColorWordMatch/ColorWordMatch.md",
     "Zotero/Literature Thoughts.md",
     "Zotero/hintonUnderstandingHumanNeural2020.md",
-    "Research/MSL Meetings.md",
     "Zotero/geurtsAttentionDemandsBalance1994.md",
-    "Research/Experiments/ColorWordMatch/Data Processing.md",
     "NotionImport/Literature Notes.md",
     "Research/Experiments/ColorWordMatch/Images/Pasted image 20231217154248.png",
     "Research/Experiments/ColorWordMatch/Images/Pasted image 20231217154230.png",
@@ -281,7 +297,6 @@
     "Research/Images/Pasted image 20231213165550.png",
     "Research/Experiments/Dual Task/Dual Task Treadmill Protocol.md",
     "School/Classes/ANAT414.md",
-    "Research/Resources/Tools.md",
     "School/Classes/Images/Pasted image 20231210150319.png",
     "Personal/Box Projects.md",
     "School/Classes/Images/Pasted image 20231209153832.png",
@@ -299,9 +314,7 @@
     "Untitled.md",
     "Untitled 1.md",
     "Research/Experiments/Upright Perception/Upright Perception Exp.md",
-    "HC1.md",
     "Research/Experiments/Upright Perception",
-    "NotionImport/PhD Program.md",
     "Research/Experiments/ColorWordMatch/Images/Pasted image 20231205193825.png",
     "Research/Experiments/ColorWordMatch/Images/Pasted image 20231203174903.png",
     "Research/Experiments/ColorWordMatch/Images/Pasted image 20231203174843.png",

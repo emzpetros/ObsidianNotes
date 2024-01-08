@@ -1,4 +1,54 @@
 
+# 1/3/24
+Goals for next 3 months: wrap up projects
+- Chronic stability paper
+- Dual task able-bodied data collection: 1 more session with each
+	- LE04 session testing
+- New DT experiment with the zero G harness
+	- 
+- Thinking about what specific direction I want to take my thesis
+	- Done the dual task , the upright perception stuff
+	- Fitting it all together 
+- Working on R21
+
+Hamid, Dakota, Suzhou, Srikanth, Eason, Aarika, Ron, Eileen, Alex, Lindsey, Jessica, Melissa
+New team member!
+- Welcome Alex! Clinical research analyst , research / admin
+Eileen send poll for new lab meeting time
+Suzhou working on JC time
+Update individual meeting times
+Vicon update: permanent license for high performance PC coming 
+
+Need to update website
+- Detailed participant information that we can link to from QR codes + advertising 
+	- Currently just goes to APT main page 
+	- Page on website for people: limb loss, limb loss w/o diabetes, able-bodied 
+- Dan boards? able bodied one doesn't have a QR code 
+	- Jessica will share current ones on slack 
+
+Subjects
+- LE01: Hannah next week anytime 8-12 besides the 10th; targeting Thursday 
+- LE02: Hannah, stairs 2 days 24/ 25th - morning - Aarika scheduling 
+- LE04: week of 29th or 5th 
+- LE06: stairs, Genium waiting to hear on socket; wait on LE04 scheduling 
+
+Goals
+- Hannah: review / methodology paper for skin, blood flow measurements; oxygenation measurements; paper with Lindsey; able-bodied data
+- Ron: review papers Eileen, Homegoing, Suzhou , Lindsey + Hannah ; attend JC
+- Aarika: homegoing paper, finish stairs, zero G installation with stair carrying objects; residual sensation study; 1st homegoing with LE02; regular follow up PT to prevent lower back pain 
+	- start with survelliance 
+- Eason: stair experiment, BSMS program
+- Srikanth: homegoing, own experiments - data + paper
+- Suzhou: finish slips + trips + submitted, reflexes for walking code by end of month - work out experiment design after , Daekyoo's FGA - analysis almost complete - waiting for EMG
+- Dakota: finalize code for genium + fit socket for LE06, prelim data collection + rough experiment outlines; sensory excersie app w/ Rachel; John + Jeremy EPM
+- Melissa: almost done with upper limb user perspectives on fxnal features of their prosthesis; working on structural equation modeling from surveys; proposal + starting dissertation ; nurse manager for clinical research unit 
+- lindsey: paper; EMG + sensation paper ; Anish for OSL 
+- Jessica: lower iSens study out door for IRB
+- Alex: excitied to work with patients
+- Hamid: enrolling one new subject + implant; starting homegoing; pending papers; drafting grant for looking at brain; iSens for lower 
+	- EEG + fNIRS
+- 
+
 # 9/27/23
   
 On Teams

@@ -21,6 +21,7 @@ Vicon Real Time SDK: [https://docs.vicon.com/display/DSSDK111/DataStream+SDK+Doc
 
 Musa BodyBuilder Tutorial: https://drive.google.com/drive/folders/1bvlj_O5lIGlsT9rclYDrfbRVH3SVkPym 
 
+Musa BodyBuilder Matlab: https://drive.google.com/file/d/1Icn4jaT9msAIrrwYyuZ2i-E8py-31Qlc/view?usp=sharing
 Vicon Unity Integration for HMD: [https://www.vicon.com/software/third-party/unity/?section=downloads](https://www.vicon.com/software/third-party/unity/?section=downloads)
 
 - [https://docs.vicon.com/display/UnityPlugin12/Install+and+set+up+the+software](https://docs.vicon.com/display/UnityPlugin12/Install+and+set+up+the+software)
